@@ -1,0 +1,630 @@
+﻿Monster,Source,# Enc.,Move,AC,HD,# Attacks,Attack Types,Damage,Save,Morale,XP,Notes
+Aboleth,M2,1d4(1d4),S180'(60'),4(15),8,4,tentacles,1d6/1d6/1d6/1d6,F8,10,"2,060",Slime and enslavement abilites. Ground movement 30'(10').
+Adherer,FF,1d4(1d6),90'(30'),3(16),4,1,fists,1d3,F4,7,190,Creatures and weapons stick to skin.
+Aerial Servant,L2,1(1),240'(80'),3(16),16,1,slam,8d4,F10,10,"3,300",Surprises on 1-4. May pin human-sized creatures.
+Afanc,M2,1(1),S150'(50'),6(13),15,1or2,bite/flippers,5d4/3d4/3d4,F15,10,"2,400",Create whirpool in 5-8rds.
+Algoid,FF,1d6(1d6),60'(20'),5(14),5,2,fists,1d10/1d10,F5,10,800,"Mind Blast. Immune to edged weapons, fireballs and lightning."
+Ankheg 3HD,L2,1d6(1d6),120'(40'),3(16),3,1,bite,3d6+1d4,F3,9,80,Spit acid 1/day R30' 8d4Dam (S½). Burrows at 60'/rd.
+Ankheg 4HD,L2,1d6(1d6),120'(40'),3(16),4,1,bite,3d6+1d4,F4,9,190,Spit acid 1/day R30' 8d4Dam (S½). Burrows at 60'/rd.
+Ankheg 5HD,L2,1d6(1d6),120'(40'),3(16),5,1,bite,3d6+1d4,F5,9,500,Spit acid 1/day R30' 8d4Dam (S½). Burrows at 60'/rd.
+Ankheg 6HD,L2,1d6(1d6),120'(40'),3(16),6,1,bite,3d6+1d4,F6,9,820,Spit acid 1/day R30' 8d4Dam (S½). Burrows at 60'/rd.
+Ankheg 7HD,L2,1d6(1d6),120'(40'),3(16),7,1,bite,3d6+1d4,F7,9,"1,140",Spit acid 1/day R30' 8d4Dam (S½). Burrows at 60'/rd.
+Ankheg 8HD,L2,1d6(1d6),120'(40'),3(16),8,1,bite,3d6+1d4,F8,9,"2,800",Spit acid 1/day R30' 8d4Dam (S½). Burrows at 60'/rd.
+"Ant, Giant",L1,2d4(4d6),180'(60'),3(16),4,1,bite,2d6,F2,7,80,Will never retreat if defending the nest.
+Ant Lion,M2,1(1),90'(30'),2(17),8,1,bite,5d4,F4,9,"1,560",Recuring damgage after a hit until dead.
+"Ape, Albino",L1,1d6(2d4),120'(40'),6(13),4,2,claws,1d4/1d4,F2,7,80,Throw rocks 1d6Dam.
+"Ape, Chimpanzee",L2,1d4(3d4),120'(40'),6(13),3,3,fists/bite,1d3/1d3/1d6,F3,9,50,
+"Ape, Gorilla",L2,1d4(3d4),120'(40'),6(13),4+1,3,fists/bite,1d3/1d3/1d6,F4,8,80,
+"Ape, Man-Eating",L2,2d4(3d4),120'(40'),6(13),5,3,fists/bite,1d4/1d4/1d8,F5,10,350,Only surprised on 1. +1d8Dam if both fists hit.
+Apparition,FF,1d4(1d4),F240'(80'),0(19),8,1,fear,Special,F8,12,"2,060",Mental suggestion (roll under INT on 3d6 for immunity).
+Archer Bush,CC,0(1d20),3'(1'),7(12),2,1,thorn spray,1d4,F1,12,20,May fire thorns up to 3 times per day.
+Ascomoid(8'diameter),M2,1(1),120'(40'),3(16),6+6,1,slam,1d8,F3,12,80,"Knock down, spore jet, 50% resistant to fire and electricity."
+"Assassin Bug, Giant",FF,2(2),F180'(60'),5(14),1+1,1,bite,1d4,F2,7,21,Male's bite paralyses (S+2). Female implants eggs.
+Axe Beak,L2,1d6(2d4),180'(60'),6(13),3,3,claws/bite,1d3/1d3/2d4,F3,8,50,
+Babbler,FF,1d4(1d4),120'(40'),6(13),5,3,claws/bite,1d6/1d6/1d8,F3,9,500,Surprises on 1-4. Surprise bite attack at +4 to hit and 2xDam.
+Baboon,L2,2d4(1d4x10),120'(40'),7(12),1+1,1,bite,1d4,F1,7,15,
+"Baboon, Higher",L1,2d6(5d6),120'(40'),6(13),2,2,bite/club,1d3/1d6,F2,8,20,
+Badger,L2,1d2(1d4+1),60'(20'),4(15),1+2,3,claws/bite,1d2/1d2/1d3,F1,8,15,
+"Badger, Giant",L2,1d2(1d4+1),60'(20'),4(15),3,3,claws/bite,1d3/1d3/1d6,F3,8,50,
+Banderlog,M2,4d8(4d8),120'(40'),6(13),4,1,bite,1d4+1,F4,9,80,"Throw coconuts R30', 1d4+1Dam."
+Basilisk,L1,1d6(1d6),60'(20'),4(15),6+1,2,bite/gaze,1d10/petrify,F6,9,570,Gaze turns to stone (SNeg). Not immune to its own gaze.
+"Basilisk, Greater",M2,1d2(1d2),60'(20'),2(17),10,4,claws/bite/gaze,1d6/1d6/2d8,F10,10,"2,400",As regular basilisk + poisonous claws/breath (SorD+4/+2).
+Bat,L1,1d00(1d00),F120'(40'),6(13),1hp,1,swarm,0,F0,6,6,Swarm attack victims get -2 to hit and on saves.
+"Bat, Giant",L1,1d10(1d10),F180'(60'),6(13),2,1,bite,1d4,F1,8,20,Vampiric variety cause paralysis and drain blood (1d4/rd).
+"Bat, Mobat",M2,1d8(1d8),F150'(50'),7(12),6,1,bite or screech,2d4,F3,9,135,Screech causes victims to cover ears.
+"Bear, Black",L1,1d4(1d4),120'(40'),6(13),4,3,claws/bite,1d3/1d3/1d6,F2,7,80,+2d4Dam if both claws hit.
+"Bear, Grizzly",L1,1(1d4),120'(40'),6(13),5,3,claws/bite,1d4/1d4/1d8,F2,8,200,+2d6Dam if both claws hit.
+"Bear, Polar",L1,1(1d2),120'(40'),6(13),6,3,claws/bite,1d6/1d6/1d10,F3,8,320,+2d6Dam if both claws hit.
+"Bear, Cave",L1,1d2(1d2),120'(40'),5(14),7,3,claws/bite,1d8/1d8/1d12,F3,9,440,+2d8Dam if both claws hit.
+"Bee, Giant Killer",L1,1d6(5d6),F150'(50'),7(12),½,1,sting,1d3+poison,F1,9,7,Poisonous sting (SorD). Bee dies after using sting.
+"Beetle, Gt.Boring",L2,3d6(3d6),60'(20'),3(16),5,1,bite,5d4,F5,7,200,
+"Beetle, Gt.Carnivorous",L1,1d6(2d4),150'(50'),3(16),3+1,1,bite,2d6,F1,9,65,
+"Beetle, Gt.Deathwatch",M2,1(1),120'(40'),3(16),9,1,bite,3d4,F9,9,"1,700",Sonic Vibration attack 1/day (SorD) 30'R.
+"Beetle, Gt.Fire",L1,1d8(2d6),120'(40'),4(15),1+2,1,bite,2d4,F1,7,15,Light emitting organs 10'R.
+"Beetle, Gt.Rhinoceros",L2,1d6(1d6),60'(20'),2(17),12,2,bite/horn,3d6/2d8,F12,8,"1,200",
+"Beetle, Gt.Slicer",M2,1d3(1d3),60'(30'),3(16),6,1,bite,2d8,F6,8,570,On a to hit roll of 19 or 20 it severs a limb.
+"Beetle, Gt.Spitting",L1,1d8(2d6),120'(40'),4(15),2,1,bite,1d6,F1,8,38,"Toxic spray R5', target gets -2 to hit penalty."
+"Beetle, Gt.Stag",L2,2d6(2d6),60'(20'),3(16),7,3,horns/bite,1d10/1d10/4d4,F7,8,440,
+"Beetle, Gt.Water",M1,1d12(1d12),S120'(40'),3(16),4,1,bite,3d6,F4,8,80,
+Black Pudding,L1,1(0),60'(20'),6(13),10,1,corrosion,3d8,F5,12,"3,100",Only damaged by fire. Normal blows cause it to split.
+Blindheim,FF,1d4(1d4),90'(30'),1(18),4+2,1,bite,1d8,F4,8,215,Blinding eye beams R30'. AC3 if resistant to bright light.
+Blink Dog,L1,1d6(1d6),120'(40'),5(14),4,1,bite,1d6,F4,6,135,Teleports in to attack and teleports away immediatley afterwards.
+Blood Hawk,FF,1d12+3(1d12+3),F240'(80'),7(12),1+1,3,claws/bite,1d4/1d4/1d6,F1,12,15,
+Boalisk,M2,1d3(1d3),120'(40'),5(14),5+1,2,bite/constrict,1d3/1d6+1,F5,8,460,Gaze causes rotting disease.
+Boar,L1,1d6(1d6),150'(50'),7(12),3,1,tusk,2d4,F2,9,50,
+"Boar, Giant",L1,1d4(1d4+1),120'(40'),6(13),5,1,tusk,3d4,F5,9,200,
+"Boar, Warthog",L2,1d6(1d6),120'(40'),7(12),3+3,2,tusks,2d4/2d4,F3,9,65,
+Boggart,M2,1d4+1(1d4+1),180'(60'),-6(25),6,1,touch,2d6,F6,8,"2,070","Invisibility, energy bolt R10' 2d6Dam (S½), confusion, magic resistance."
+Bonesnapper,FF,1d3(1d3),60'(20'),4(15),4,2,bite/tail,1d8/1d4,F4,12,80,
+Brown Pudding,M2,1(1d4),60'(20'),5(14),11,1,corrosion,5d4,F11,12,"3,100",Only damaged by fire. Normal blows cause it to split.
+Brownie,L2,4d4(4d4),120'(40'),3(16),½,1,weapon,1d3,M1,7,12,"Spells (confusion, continual light, dancing lights, dimnesion door etc.)."
+Bugbear,L1,2d4(5d4),90'(30'),5(14),3+1,1,weapon,Weapon +1,F3,9,100,Surprises on 1-3.
+Bulette,L2,1d2(1d2),150'(50'),-2(21),9,3,claws/bite,3d6/3d6/4d12,F9,9,"1,000","May use rear claws instead of bite, which exposes AC6 underside."
+Camel,L1,0(2d4),150'(50'),7(12),2,2,bite/hoof,1/1d4,F1,7,20,May travel for 2 weeks without water.
+Carbuncle,FF,1(1),30'(10'),2(17),1,0,0,0,F1,12,13,"Empathy, telepathy and prophecy powers."
+Carcass Scavenger,L1,1d3(1d3),120'(40'),7(12),3+1,8,tentacles,Paralysis,F2,9,135,Paralysis lasts for 2d4turns (SNeg).
+Caryatid Column,FF,1d12(1d12),60'(20'),5(14),5,1,sword,2d4,F10,12,500,All have 22hp. Non-magical weapons only do half damage.
+"Cat, Cheetah",M2,1d4(1d4),150'(50'),5(14),3,3,claws/bite,1d2/1d2/2d4,F2,8,65,May sprint at 450'/rd for upto 3rds.
+"Cat, Lion",L1,1d4(1d8),150'(50'),6(13),5,3,claws/bite,1d4+1/1d4+1/1d10,F3,9,200,
+"Cat, Mountain Lion",L1,1d4(1d4),150'(50'),6(13),3+2,3,claws/bite,1d3/1d3/1d6,F2,8,65,
+"Cat, Panther",L1,1d2(1d6),210'(70'),4(15),4,3,claws/bite,1d4/1d4/1d8,F2,8,80,Same stats also apply for Leopards.
+"Cat, Sabre-tooth Tiger",L1,1d4(1d4),150'(50'),6(13),8,3,claws/bite,1d8/1d8/2d8,F4,10,560,
+"Cat, Tiger",L1,1(1d3),150'(50'),6(13),6,3,claws/bite,1d6/1d6/2d6,F3,9,570,Surprises on 1-4 in woodlands.
+Cave Fisher,M2,1d4(1d4),10'(3'),4(15),3,2,pincers,2d4/2d4,F2,9,65,"60' sticky filament, +3 to hit, reels in prey at 15'/rd."
+Cave Moray,M2,4d4(4d4),10'(3'),0(19),4+4,1,bite,2d8,F3,9,290,Surprises on 1-5. Only 5% chance of hitting AC5 body.
+Centaur,L1,0(2d10),180'(60'),5(14),4,3,hooves/weapon,1d6/1d6/weapon,F4,8,80,
+"Centipede, Giant",L1,2d4(1d8),60'(20'),9(10),½,1,bite,Poison,F0,7,6,Poison causes sickness for 10 days (SNeg).
+"Centipede, Megalo-",M2,1d4(1d4),180'(60'),5(14),3,1,bite,1d3+poison,F2,8,65,"Poison (SorD), 1d8Dam if save is made."
+"Centipede, Stega-",M2,1(1),150'(50'),3(16),9,2,bite/tail,2d4/3d4+poison,F5,9,"1,700",Poison bite and tail attacks (SorD).
+Chimera,L1,1d2(1d4),F180'(60'),4(15),9,5,claws/bites/horns,1d3/1d3/2d4/2d4/3d4,F9,9,"1,700",See Dragon Sub-table. Ground movement 120'(40').
+Clubneck,FF,2d4(2d4),120'(40'),8(11),2,3,claws/bite,1d6/1d6/1d8,F2,8,20,May run at upto 2x speed 1rd in 5.
+Cockatrice,L1,1d4(1d8),F180'(60'),6(13),5,1,bite,1d6+petrify,F5,7,350,Touch turns to stone (SNeg). Ground movement 90'(30').
+Coffer Corpse,FF,1(1),60'(20'),8(11),2,1,hands or weapon,1d6/weapon,F2,12,38,Magic weapons to hit. Hands do ongoing 1d6Dam.
+Cooshee,M2,1d8(1d8),150'(50'),5(14),3+3,1,bite,1d4+6,F2,9,100,Will try to knock down opponents then bite at +2 to hit.
+Couatl,L2,1d4(1d4),F180'(60'),5(14),9,2,bite/constrict,1d3/2d4,M9,8,"3,100",Bite is poisonous (SorD). Polymorph at will. Spell use.
+"Crab, Giant",L1,1d2(1d6),60'(20'),2(17),3,2,pincers,2d6/2d6,F2,7,50,
+Crabman,FF,2d6(2d6),90'(30'),4(15),3,2,pincers,1d4/1d4,F3,8,50,
+"Crayfish, Giant",L2,1d4(1d4),S120'(40'),4(15),4+4,2,pincers,2d6/2d6,F4,9,140,Surprises on 1-3 when in water. Ground movement 60'(20').
+Crocodile,L1,0(1d8),S90'(30'),5(14),2,1,bite,1d8,F1,7,20,Ground movement 90'(30').
+"Crocodile, Large",L1,0(1d4),S90'(30'),3(16),6,1,bite,2d8,F3,7,320,Ground movement 90'(30').
+"Crocodile, Giant",L1,0(1d3),S90'(30'),1(18),15,1,bite,3d8,F8,9,"1,500",Ground movement 90'(30').
+Crypt Thing,FF,1(1),120'(40'),3(16),6,1,claw,1d8,F6,12,820,Magic weapons to hit. Teleport party away.
+Crystal Ooze,M2,1d2(1d2),S30'(10'),8(11),4,1,poison,4d4+paralysis,F4,12,190,75% invisible in water. Weapons do 1Dam. Paralysis (SNeg).
+Cyclops,L1,1(1d4),90'(30'),5(14),13,1,club,3d10,F13,9,"2,400",Attacks at -2 to hit. Throw rocks (200') 3d6Dam.
+"Daemon, Charon",M2,1(1),180'(60'),-5(24),22,1,pole,2d4+paralysis,F22,10,"12,250",140hp. Gaze causes fear (SNeg). Summon lesser daemons.
+"Daemon, Charna-",M2,1(1),180'(60'),-1(20),10+20,1,pole,2d4,F10,10,"2,400",Gaze causes fear (SNeg). Summon lesser daemons.
+"Daemon, Dergho-",M2,1d4(1d4),120'(40'),0(19),11+22,5,claws,1d4+8each,F11,10,"3,600","2 hits ""grabs"" an opponent. Spell-like abilities."
+"Daemon, Guardian",FF,1d3(1d3),90'(30'),1(18),8,3,claws/bite,1d12/1d12/1d6,F8,10,"1,560",Fire breath R30' 5d6Dam (S½). Spell-like abilities.
+"Daemon, Hydro-",M2,2d4(2d4),60'(20'),2(17),9+36,3,claws/bite,1d8/1d8/1d10,F9,10,"3,100",Glides at 4x speed. Bite drains 1 level. Spell-like abilities.
+"Daemon, Oino-",M2,1(1),180'(60'),-6(25),23,2,claws,2d6/2d6+disease,F23,10,"13,500",233hp. Gaze transfixes. Disease (SNeg). Spell-like abilities.
+"Daemon, Pisco-",M2,3d4(3d4),S180'(60'),-1(20),6,2,pincers,2d8/2d8,F6,10,820,Never surprised. Poison tentacles if both pincers hit (SorD).
+Dakon,FF,10d6(10d6),60'(20'),5(14),1+1,2,claws,1d10/1d10,F1,8,21,"Intelligent ape, speaks some common. Attacks at +2 to hit."
+Dark Creeper,FF,1(20d4),90'(30'),0(19),1+1,1,dagger,1d4,F1,8,33,4th level thief. Detect magic items R15'. Create darkness 50'R.
+Dark Stalker,FF,1(1),90'(30'),0(19),2+1,1,short sword,1d6,F2,8,83,As Dark Creeper + create wall of fog 2/day.
+Death Dog,FF,5d10(5d10),120'(40'),7(12),2+1,2,bites,1d10/1d10,F2,8,59,Knock over opponent on a 19/20. Bites causes disease (SorD).
+"Demodand, Shaggy",M2,1(1d8),F180'(60'),-3(22),15,3,claws/bite,1d8+1/1d8+1/5d4,F15,10,"6,000",+3 weapons to hit. Spell-like abilities. Several immunities.
+"Demodand, Slime",M2,1(1d10),F240'(60'),-2(21),13,3,claws/bite,2d4/2d4/4d4,F13,10,"5,100",+2 weapons to hit. Spell-like abilities. Several immunities.
+"Demodand, Tarry",M2,1(2d6),F300'(100'),-1(20),11,3,claws/bite,1d6+1/1d6+1/3d4,F11,10,"4,000",+1 weapons to hit. Spell-like abilities. Several immunities.
+"Demon, Alu-",M2,1(1),120'(40'),5(14),6+2,1,weapon,Weapon,F6,7,980,+1 weapons to hit. Grasp drains 1d8hp. Spell-like abilities.
+"Demon, Astarot",L2,1(1),150'(50'),-7(26),23,3,tentacles/tail,1d6/1d6/2d6,F23,12,"17,000",+2 weapons to hit. 2 gaze + 1 breath attacks. Spell-like abilities.
+"Demon, Babau",L2,1d3(1d6),150'(50'),-3(22),7+10,3,claws/horn,1d4+1/1d4+1/2d4,F7,10,"1,700",Edged weapons do half damage. Gaze and spell-like abilities.
+"Demon, Balor",L2,1d3(1d6),F150'(50'),-2(21),8+7,1,sword or whip,1d8+1/1d6,F8,10,"1,820",+1 weapons to hit. Whip+3d6 fire damage. Spell-like abilities.
+"Demon, Baphomet",M2,1(1),240'(80'),-4(23),21,3,butt/bite/weapon,2d6/1d4+1/3d4+8,F21,12,"11,000",106hp. +2 weapons to hit. Bellow R300'. Spell-like abilities.
+"Demon, Cambion (Major)",M2,1(1),150'(50'),6(13),5-8,1,weapon,Weapon+STR,F5-8,9,Varies,Immune to silver weapons. Possible MU/Thief abilities.
+"Demon, Demogorgon",M1,1(1),150'(50'),-8(27),22,3,tentacles/tail,1d6/1d6/energy drain,F22,11,"17,000",200hp. +2 weapons to hit. Gazes. Rot. Spell-like abilities.
+"Demon, Fraz-urb'luu",M2,1(1),F180'(60'),-2(21),23,3,fists/tail,1d6+12/1d6+12/1d12,F23,12,"9,000",233hp. Tail hit allows bite attack (3d6Dam). Spell-like abilities.
+"Demon, Glabrezu",L2,1d3(1d6),90'(30'),-4(23),10,5,pincers/claws/bite,2d6/2d6/1d3/1d3/1d4+1,F10,9,"3,100","Darkness 10'R, fear, levitate, polymorph, pyros, telekinesis."
+"Demon, Hezrou",L2,1d3(1d6),120'(40'),-2(21),9,3,claws/bite,1d3/1d3/4d4,F9,10,"3,100","Darkness 10'R, detect invisibility, fear, levitate, telekinesis."
+"Demon, Jubilex",L2,1(1),30'(10'),-7(26),21,1,acid,4d10,F21,10,"7,000",100hp. +2 weapons to hit. Slime spittle. Spell-like abilities.
+"Demon, Kostchtchie",M2,1(1),60'(20'),-3(22),21,1,weapon,2d6+10,F21,12,"9,000",96hp. Stuns on a hit for 1 round (SNeg). Spell-like abilities.
+"Demon, Marilith",L2,1d3(1d6),120'(40'),-6(25),7+6,7,weapons/tail,Weapons/2d4,F7,9,"1,700",+1 weapons to hit. Spell-like abilities.
+"Demon, Nabassu",M2,1(1),F150'(50'),Varies,5+2d10,3,claws/bite,2d4/2d4/3d4,F5,9,Varies,Extra HP and AC. Death Steal gaze. Spell-like abilities.
+"Demon, Nalfeshnee",L2,1d3(1d6),F120'(40'),-1(20),11,3,claws/bite,1d4/1d4/2d4,F11,10,"4,400",Spell-like abilities.
+"Demon, Orcus",L2,1(1),F180'(60'),-6(25),22,2,fist/tail,2d6+1/2d4+poison,F22,10,"13,000",125hp. +3 weapons to hit. Poison tail (SorD). Spell-like abilities.
+"Demon, Pazuzu",M2,1(1),F240'(80'),-9(28),23,1,weapon,Weapon+8,F23,12,"16,000",155hp. +2 weapons to hit. Turn clerics. Spell-like abilities.
+"Demon, Quasit",L2,1(0),150'(50'),2(17),3,3,claws/bite,1d2/1d2/1d4,F3,10,95,Magic weapons to hit. Regenerate 1hp/rd. Spell-like abilities.
+"Demon, Shadow",FF,1(1),120'(40'),1(18),7+3,3,claws/bite,1d6/1d6/1d8,F7,9,"1,300","AC9 daylight, AC5 torchlight, AC1 darkness. Spell-like ablities."
+"Demon, Succubus",L2,1(1),F180'(60'),0(19),6,2,claws,1d3/1d3,F6,7,"1,320",Magic weapons to hit. Level drain. Spell-like abilities.
+"Demon, Vrock",L2,1d3(1d6),F180'(60'),0(19),8,5,claws/beak,1d4/1d4/1d8/1d8/1d6,F8,11,"2,060","Spell-like abilities, darkness 10'R. Detect invisibility, telekinesis."
+Demon Boar,L1,1d4(1d4),180'(60'),3(16),9,1,gore,2d6,F9,10,"3,800",Silver weapons to hit. Charm Person (SNeg-2).
+"Deva, Monadic",M2,1d4(1d4),F360'(120'),-4(23),8+32,2,rod,3d4+4/3d4+4,F8,10,"3,020",+1 weapons to hit. Spell-like abilities.
+"Deva, Movanic",M2,1d6(1d6),F300'(100'),-5(24),7+28,4,sword,1d8+6/1d8+6/1d8+6,F7,10,"2,100",+1 weapons to hit. Spell-like abilities.
+"Devil, Amon",L2,1(1),180'(60'),-2(21),22,1,bite/weapon,3d4/weapon+4,F22,10,"13,000",132hp. +4mace(1d6+8Dam). Regenerate 1hp/rd. Spell-like abilities.
+"Devil, Bael",L2,1(1),120'(40'),-3(22),21,2,weapon,Weapon+6,F21,10,"11,000",110hp. +2m.star(1d6+8Dam). Regenerate 1hp/rd. Spell-like abilities.
+"Devil, Barbed",L2,1d2(3d4),120'(40'),0(19),8,3,claws/tail,2d4/2d4/3d4,F8,10,"2,560",Never surprised. Hits cause fear (Sneg). Spell-like abilities.
+"Devil, Bone",L2,1d2(2d4),150'(50'),-1(20),9,1,hook or tail,3d4/2d4,F9,10,"3,100",Tail hit drains 1d4STR for 2d6rds (SNeg). Spell-like abilities.
+"Devil, Erinyes",L2,1d3(4d4),F210'(70'),2(17),6+5,1,dagger,2d4+poison,F6,10,"1,280",Poison paralyzes (SNeg). Rope of entanglement. Spell-like abilities.
+"Devil, Geryon",L2,1(1),F180'(60'),-3(22),23,3,claws/sting,3d6/3d6/2d4,F23,10,"13,000",135hp. +2 weapons to hit. Poison sting (SorD-4). Spell-like abilities.
+"Devil, Horned",L2,1d2(1d4+1),F180'(60'),-5(24),5+5,4,claws/bite/tail,1d4/1d4/1d4+1/1d3,F5,9,"1,260",+1 weapons to hit. Tail hit does +1Dam/rd. Spell-like abilities.
+"Devil, Hutijin",M2,1(1),F180'(60'),-4(23),21,2,trident/net,1d8+11/ensnare,F21,10,"7,000",111hp. Voice fear R30' (SNeg). Spell-like abilities.
+"Devil, Ice",L2,1(1d4),60'(20'),-4(23),11,4,claws/bite/tail,1d4/1d4/1d4/3d4,F11,11,"4,800",+2 weapons to hit. Regenerate 1hp/rd. Spell-like abilities.
+"Devil, Imp",L2,1(1),F180'(60'),2(17),2+2,1,tail,1d4+poison,F2,8,83,Magic weapons to hit. Poison (SorD). Regenerates 1hp/rd.
+"Devil, Lemure",L2,0(5d6),30'(10'),7(12),3,1,claw,1d4,F3,6,95,Regenerate 1hp/rd. Only permanently killed by Holy Water.
+"Devil, Moloch",M2,1(1),120'(40'),-3(22),22,3,claws/bite,1d4+7/1d4+7/4d4,F22,10,"7,750",126hp. Breath causes fear R30' (SNeg). Spell-like abilities.
+"Devil, Pit Fiend",L2,1(1d3),F150'(50'),-3(22),13,2or1,weapons/tail,1d6+6/1d6+6/2d4,F13,10,"5,100",+2 weapons to hit. Regenerate 2hp/rd. Spell-like abilities.
+"Devil, Titivilus",M2,1(1),F300'(100'),-2(21),21,1,weapon,Weapon+3,F21,10,"7,000",86hp. Touch causes fear (SNeg). Spell-like abilities.
+Devil Dog,FF,4d4(4d4),300'(100'),6(13),6,1,bite,2d4,F6,8,820,Baying causes fear ≤3rd level (SNeg-4). Special throat attack.
+"Dinosaur, Pteranodon",L1,0(1d4),F240'(80'),6(13),5,1,bite,1d12,F3,8,350,Wingspan upto 50'.
+"Dinosaur, Pterodactyl",L1,0(1d4),F180'(60'),7(12),1,1,bite,1d3,F1,7,13,Wingspan 7'-10'. Attacks upto halfling-sized creatures.
+"Dinosaur, Stegosaurus",L1,0(1d4),60'(20'),3(16),11,1,tail or trample,2d8/2d6,F6,7,"1,200",
+"Dinosaur, Triceratops",L1,0(1d4),90'(30'),2(17),11,1,gore or trample,3d6/3d6,F6,8,"1,200",
+"Dinosaur, T.Rex",L1,0(1),120'(40'),3(16),20,1,bite,6d6,F10,11,"2,250",Generally ignores prey smaller than halfling-sized.
+Dire Corby,FF,1d12(1d12),120'(40'),6(13),2,2,claws,1d6/1d6,F2,9,20,
+Disenchanter,FF,1d2(1d2),120'(40'),5(14),5,1,snout,Drain magic,F5,6,500,Magic weapons to hit. Snout hits drain magic from items.
+Djinni,L1,1(1),F240'(80'),5(14),7+1,1,fist,2d8,F14,12,"1,700",Magic weapons to hit. Whirlwind 2d6Dam. Spel-like abilities.
+"Dog, War",L2,0(0),120'(40'),6(13),2+2,1,bite,2d4,F2,11,35,
+"Dog, Wild",L2,4d4(4d4),150'(50'),7(12),1+1,1,bite,1d4,F1,7,15,
+Doppelganger,L1,1d6(1d6),90'(30'),5(14),4,1,fist,1d12,F10,10,190,Polymorph self. Immune to sleep and charm spells.
+Dracolisk,M2,1d2(1d2),F150'(50'),3(16),7+3,3,claws/bite,1d6/1d6/3d4,F7,9,"1,300",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Black",L1,1d4(1d4),F240'(80'),2(17),7,3,claws/bite,1d4+1/1d4+1/2d10,F7,8,"1,490",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Blue",L1,1d4(1d4),F240'(80'),0(19),9,3,claws/bite,1d6+1/1d6+1/3d10,F9,9,"3,100",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Brass",L2,1d4(1d4),F240'(80'),2(17),7,3,claws/bite,1d4/1d4/4d4,F7,9,"1,490",See Dragon Sub-table. Ground movement 120'(40').
+"Dragon, Bronze",L2,1d4(1d4),F240'(80'),0(19),9,3,claws/bite,1d6/1d6/4d6,F9,9,"3,100",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Chromatic",L2,1(1),F180'(60'),0(19),18,6,bites/tail,As head/1d6+poison,F18,10,"5,250",See Dragon Sub-table. Ground movement 60'(20'). Poison (SorD).
+"Dragon, Cloud",M2,1d2(1d2),F390'(130'),0(19),13,4,claws/bite/tail,1d10/1d10/3d12/3d4,F13,10,"4,200",See Dragon Sub-table. Ground movement 60'(20'). AC-3 gaseous.
+"Dragon, Copper",L2,1d4(1d4),F240'(80'),1(18),8,3,claws/bite,1d4/1d4/5d4,F8,9,"2,060",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Faerie",M2,1d6(1d6),F240(80'),5(14),4,1,bite,1d2,F4,7,300,1-16hp. See Dragon Sub-table. Ground movement 60'(20'). Invisibility.
+"Dragon, Gold",L1,1d4(1d4),F240'(80'),-2(21),11,3,claws/bite,2d4/2d4/6d6,F11,10,"3,600",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Green",L1,1d4(1d4),F240'(80'),1(18),8,3,claws/bite,1d6/1d6/3d8,F8,9,"2,060",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Mist",M2,1d2(1d2),F330'(110'),1(18),10,4,claws/bite/tail,1d4/1d4/2d12/2d4,F10,10,"3,100",See Dragon Sub-table. Ground movement 60'(20'). AC-2 as mist.
+"Dragon, Red",L1,1d4(1d4),F240'(80'),-1(20),10,3,claws/bite,1d8/1d8/4d8,F10,10,"3,100",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, Sea",L1,0(1d4),F/S180'(60'),1(18),8,1,bite,3d8,F8,9,"2,060",See Dragon Sub-table.
+"Dragon, Silver",L2,1d4(1d4),F240'(80'),-1(20),10,3,claws/bite,1d6/1d6/5d6,F10,10,"3,100",See Dragon Sub-table. Ground movement 90'(30').
+"Dragon, White",L1,1d4(1d4),F240'(80'),3(16),6,3,claws/bite,1d4/1d4/2d8,F6,8,"1,070",See Dragon Sub-table. Ground movement 90'(30').
+Dragon Fish,FF,1(1),S60'(20'),4(15),2,1,bite,1d6,F2,7,38,Only 15% chance of spotting. Poison spines (SorD-2).
+Dragon Horse,M2,1(1d3),F480'(160'),0(19),8,2,hooves,1d8/1d8,F8,9,"1,560",Never surprised. Ground movement 240'(80'). 3x breath weapons.
+Dragon Turtle,L1,0(1),S90'(30'),-2(21),30,3,claws/bite,1d8/1d8/10d6,F15,10,"9,500",See Dragon Sub-table. Ground movement 30'(10').
+"Dragonfly, Giant",M2,1d6(1d6),F360'(120'),3(16),7,1,bite,3d4,F4,9,"1,140",+2 Initiative. With initiative immune to hand weapons (missiles-4).
+Dragonne,L2,1(1),150'(50'),2(17),9,3,claws/bite,1d8/1d8/3d6,F9,9,"2,900",Roar R30'/120' deafness/weakness (SNeg). Flies at 90'(30').
+Dragonnel,M2,1d4(1d4),F180'(60'),3(16),8+4,3,claws/bite,1d6/1d6/4d4,F8,8,620,Ground movement 120'(40').
+"Drake, Fire",FF,2d4(2d4),F180'(60'),5(14),4,1,bite,2d4,F4,8,135,See Dragon Sub-table. Ground movement 60'(20').
+"Drake, Ice",FF,1d4(1d4),F150'(50'),1(18),3+3,3,claws/bite,1d3/1d3/1d6,F3,8,135,See Dragon Sub-table. Ground movement 90'(30'). Spell-like abilities.
+Drelb,M2,1(1),60'(20'),2(17),5+3,1,touch,3d4+chill,F5,10,"1,060",Magic weapons to hit. Chill causes victim to drop for 1rd.
+Dryad,L1,0(1d6),120'(40'),5(14),2,1,charm,0,F4,6,29,Charm person (SNeg).
+Dun Pudding,M2,1(1d3),120'(40'),7(12),8+1,1,corrosion,4d6,F8,12,"2,420",Only harmed by fire. Normal blows cause it to split.
+Dust Digger,M2,1d20(1d20),30'(10'),4(15),4,1,crush,1d8,F2,10,135,Closes around victim and does 1d8Dam/rd.
+Dwarf,L1,1d6(5d8),60'(20'),4(15),1,1,weapon,Weapon,D1,8,10,In a group of 20+ there will be a 1d6+2 level leader.
+"Dwarf, Duergar",L2,2d4(1d00+100),60'(20'),4(15),1+2,1,weapon,Weapon,F1,8,21,Surprises on 1-3. -2 to hit in bright light.
+"Eagle, Giant",L2,1d6(1d20),F480'(160'),7(12),4,3,claws/bite,1d6/1d6/2d6,F4,8,80,Dive 2d6Dam/claw but no bite. Ground movement 30'(10').
+Ear Seeker,L2,1d4(1d4),10'(3'),9(10),1hp,0,,0,F1,NA,5,Lay eggs in host 90% fatal. Cure disease removes.
+"Eel, Electric",L2,1d3(1d3),S120'(40'),9(10),2,1,bite,1d4,F2,7,29,"Shock 1/turn 5' 3d8Dam, 5-10' 2d8Dam, 10-15' 1d8Dam."
+"Eel, Giant",L2,1d4(1d4),S90'(30'),6(13),5,1,bite,3d6,F5,8,200,
+"Eel, Sea",L2,0(1d6x10),S150'(50'),8(11),1-1,1,bite,1+poison,F1,7,6,Poison (SorD).
+Efreeti,L1,1(1),F240'(80'),3(16),10,1,sword,2d8,F15,12,"4,500",Pillar of flame 5'R 1d8Dam upto 3rds. Spell-like abilities.
+"Elemental, Air8HD",L1,1(1),F360'(120'),2(17),8,1,blast,1d8,F8,10,"1,570",Magic weapons to hit. Carry away creatures <2HD +1d8Dam.
+"Elemental, Air12HD",L1,1(1),F360'(120'),0(19),12,1,blast,2d8,F12,10,"2,800",Magic weapons to hit. Carry away creatures <2HD +1d8Dam.
+"Elemental, Air16HD",L1,1(1),F360'(120'),-2(21),16,1,blast,3d8,F16,10,"3,300",Magic weapons to hit. Carry away creatures <2HD +1d8Dam.
+"Elemental, Earth8HD",L1,1(1),60'(20'),2(17),8,1,fist,1d8,F8,10,"1,570",Magic weapons to hit. +1d8Dam against victims on ground.
+"Elemental, Earth12HD",L1,1(1),60'(20'),0(19),12,1,fist,2d8,F12,10,"2,800",Magic weapons to hit. +1d8Dam against victims on ground.
+"Elemental, Earth16HD",L1,1(1),60'(20'),-2(21),16,1,fist,3d8,F16,10,"3,300",Magic weapons to hit. +1d8Dam against victims on ground.
+"Elemental, Fire8HD",L1,1(1),120'(40'),2(17),8,1,flames,1d8,F8,10,"1,570",Magic weapons to hit. +1d8Dam against cold-based victims.
+"Elemental, Fire12HD",L1,1(1),120'(40'),0(19),12,1,flames,2d8,F12,10,"2,800",Magic weapons to hit. +1d8Dam against cold-based victims.
+"Elemental, Fire16HD",L1,1(1),120'(40'),-2(21),16,1,flames,3d8,F16,10,"3,300",Magic weapons to hit. +1d8Dam against cold-based victims.
+"Elemental, Time12HD",M2,1(1),10'(3'),2(17),12,1,dust spray,3d4,F12,10,"3,600",+3 weapons to hit. 1d4 attacks from other times.
+"Elemental, Time16HD",M2,1(1),10'(3'),2(17),16,1,dust spray,4d4,F16,10,"4,200",+3 weapons to hit. 1d4 attacks from other times.
+"Elemental, Water8HD",L1,1(1),S180'(60'),2(17),8,1,water jet,1d8,F8,10,"1,570",Magic weapons to hit. +1d8Dam against victims in water.
+"Elemental, Water12HD",L1,1(1),S180'(60'),0(19),12,1,water jet,2d8,F12,10,"2,800",Magic weapons to hit. +1d8Dam against victims in water.
+"Elemental, Water16HD",L1,1(1),S180'(60'),-2(21),16,1,water jet,3d8,F16,10,"3,300",Magic weapons to hit. +1d8Dam against victims in water.
+Elephant,L1,0(1d20),120'(40'),5(14),9,2or1,tusks/trample,2d4/2d4/4d8,F5,8,"2,400",75% likely to trample at +4 to hit vs ≤   human-sized targets.
+Elf,L1,1d4(2d12),120'(40'),5(14),1+1,1,weapon,Weapon,E1,8,15,In a group of 20+ there will be a 1d6+1 level leader.
+"Elf, Deep",L2,1d10(4d12),120'(40'),5(14),1,1,weapon,Weapon,F1,7,10,-2 to hit in bright light.
+"Elf, Drow",L2,2d4(5d10),120'(40'),4(15),2,1,weapon,Weapon,F2,10,38,-2 to hit in bright light. Spell-like abilities.
+Ettin,L1,1d2(1d4),120'(40'),3(16),10,2,clubs,2d8/3d6,F10,9,"1,700",Only surprised on 1.
+Executioner's Hood2HD,M2,1(1),60'(20'),6(13),2+2,1,strangle,1d4,F2,12,71,Surprises on 1-3. Ongong 1d4Dam/rd. Immune to sleep.
+Executioner's Hood4HD,M2,1(1),60'(20'),6(13),4+4,1,strangle,1d4,F4,12,365,Surprises on 1-3. Ongong 1d4Dam/rd. Immune to sleep.
+Executioner's Hood6HD,M2,1(1),60'(20'),6(13),6+6,1,strangle,1d4,F6,12,"1,280",Surprises on 1-3. Ongong 1d4Dam/rd. Immune to sleep.
+"Eye, Floating",L2,1d12(1d12),S300'(100'),9(10),½,1,gaze,0,F1,6,6,Eye hypnotizes (stuns) creatures (SNeg).
+Eye of the Deep,L2,1(1),S60'(20'),5(14),10-12,3,pincers/bite,2d4/2d4/1d6,F10-12,8,"3,800",2 eye rays. Spell-like effects.
+"Eye, Tentacled",L2,1(1),90'(30'),4(15),14-16,8or1,tentacles/bite,1d8each/2d6,F14-16,10,"4,200",Each tentacle has 2d6+4hp.Tentacle hits entangle victims.
+Eye of Terror,L2,1(1),F60'(20'),0(19),10-12,3,tentacles/bite,1d6/1d6/2d4,F10-12,9,"7,300",Poison tentacles (SorD). 8 eye stalks with spell-like effects.
+"False Spider, Large",M2,1d6(1d6),90'(30'),6(13),3+3,2or1,legs/bite,0/0/2d4,F2,8,100,Legs do 0Dam but hold victims to give +3 to hit with bite.
+"False Spider, Huge",M2,1d6(1d6),90'(30'),5(14),5+5,2or1,legs/bite,0/0/3d4,F3,8,460,Legs do 0Dam but hold victims to give +3 to hit with bite.
+"False Spider, Giant",M2,1d4(1d4),120'(40'),4(15),6+6,2or1,legs/bite,0/0/4d4,F4,8,680,Legs do 0Dam but hold victims to give +3 to hit with bite.
+"Ferret, Giant",L1,1d8(1d12),150'(50'),5(14),1+1,1,bite,1d8,F1,8,15,
+Fire Snake,FF,1d6(1d6),40'(13'),6(13),2,1,bite,1d4+paralysis,F2,8,38,Surprises on 1-4. Bite paralysis 2d4turns (SNeg).
+"Fish, Gt.Catfish",L1,0(1d2,S90'(30'),4(15),8+3,5,feelers/bite,1d4each/2d8,F4,8,620,
+"Fish, Gt.Piranha",L1,0(2d4),S150'(50'),6(13),3+3,1,bite,1d8,F2,7,65,Morale increases to 12 if they catch the scent of blood.
+"Fish, Gt.Rockfish",L1,0(2d4),S180'(60'),7(12),5+5,4,spines,1d4each+poison,F3,8,460,Poison spines (SorD).
+"Fish, Gt.Sturgeon",L1,0(1),S180'(60'),0(19),10+2,1,bite,2d10,F5,9,"1,700",To hit roll of 18+ swallows whole ongoing 2d6Dam/rd.
+Flail Snail4HD,FF,1(1),30'(10'),4(15),4,4,tentacles,1d8each,F4,10,245,Tentacles have 1d8hp. Anti-magic shell(AC-8). Immune to fire.
+Flail Snail5HD,FF,1(1),30'(10'),4(15),5,5,tentacles,1d8each,F5,10,650,Tentacles have 1d8hp. Anti-magic shell(AC-8). Immune to fire.
+Flail Snail6HD,FF,1(1),30'(10'),4(15),6,6,tentacles,1d8each,F6,10,"1,070",Tentacles have 1d8hp. Anti-magic shell(AC-8). Immune to fire.
+Flightless Bird1HD,L2,2d10(2d10),180'(60'),7(12),1,1,bite/claws,1d4,F1,8,10,Smaller birds including the rhea.
+Flightless Bird2HD,L2,2d10(2d10),180'(60'),7(12),2,1,bite/claws,1d6,F2,8,20,Medium birds including the emu.
+Flightless Bird3HD,L2,2d10(2d10),180'(60'),7(12),3,1,bite/claws,2d4,F3,8,50,Larger birds including the ostrich.
+Flind,FF,2d12(2d12),120'(40'),5(14),2+3,1,club,1d6,F2,8,47,+1 to hit bonus. 25% have iron bars 1d4Dam and disarm (SNeg).
+Flumph,FF,2d8(2d8),F60'(20'),0(19),2,1,spikes,1d8+acid,F2,7,29,Acid +1d4Dam. Foul spray R20'. Underside AC8.
+"Fly, Gt.Carnivorous",L1,1d6(2d6),F180'(60'),6(13),2,1,bite,1d8,F1,8,29,Surprises on 1-4. Ground movement 90'(30').
+Foo Dog,M2,2d4(2d4),270'(90'),0(19),7+7,3,claws/bite,1d4+1/1d4+1/1d12,F7,9,"1,900",Invisibility. Become ethereal. Roar 20% chance of summoning more.
+Foo Lion,M2,1d4(1d4),210'(70'),-1(20),11+11,3,claws/bite,2d4/2d4/2d8,F11,9,"5,000",Invisibility. Become ethereal. Roar 20% chance of summoning more.
+Forester's Bane,M2,1d2(1d2),0'(0'),4(15),5,3to6,stalks,1d4+1each,F5,NA,350,"Stalks AC4, leaves AC7, bush AC9. Roll under STR to break free."
+"Frog, Giant1HD",L2,5d8(5d8),S90'(30'),7(12),1,1,bite,1d3,F1,7,13,Surprises on 1-4. 60' leap+attack. Tounge grabs at +4.
+"Frog, Giant2HD",L2,5d8(5d8),S90'(30'),7(12),2,1,bite,1d6,F2,7,29,Surprises on 1-4. 60' leap+attack. Tounge grabs at +4.
+"Frog, Giant3HD",L2,5d8(5d8),S90'(30'),7(12),3,1,bite,2d4,F3,7,65,Surprises on 1-4. 60' leap+attack. Tounge grabs at +4.
+"Frog, Gt.Killer",L2,3d6(3d6),S120'(40'),8(11),1+4,3,claws/bite,1d2/1d2/1d4+1,F1,7,21,Ground movement 60'(20').
+"Frog, Gt.Poisonous",L2,2d6(2d6),S90'(30'),8(11),1,1,bite,1+poison,F1,7,13,Poison (SorD+4). Ground movement 30'(10').
+Froghemoth,M2,1(1),40'(13'),2(17),16,4or1,tentacles/bite,1d4+4each/5d10,F16,10,"4,200","Tentacles AC2, body AC4, tongue AC6. Swallow whole on 19+."
+Frost Man,FF,1(1),120'(40'),5(14),4,1,weapon,Weapon,F4,8,135,Ice blast 3/day R35'x10' 3d6Dam (S½).
+"Fungi, Violet",L2,1d4(1d4),10'(3'),7(12),3,1to4,tentacles,Rot,F3,8,80,Slime on tenacles rots victim to a corpse in 1 round (SNeg).
+Gambado,FF,1d8(1d8),J120'(40'),6(13),4,3,claws/bite,1d4/1d4/1d8,F4,8,80,First surprise attack from its pit is bite only.
+Gargoyle,L1,1d6(2d4),F150'(50'),5(14),4,4,claws/bite/gore,1d3/1d3/1d6/1d4,F8,11,500,Magic weapons to hit. Ground Movement 90'(30').
+Gargoyle 4-Armed,ToH,1d4(1d6),F150'(50'),3(16),6,4,claws/bite/gore,1d4x4/1d6/1d4,F12,11,820,Magic weapons to hit. Ground Movement 90'(30').
+Gas Spore,L2,1d3(1d3),F30'(10'),9(10),1hp,1,spores,Infection,F1,12,6,Dies after attacking. Victim dies in 24hours. Explodes if struck 6d6Dam.
+Gelatinous Cube,L1,1(0),60'(20'),8(11),4,1,slam,2d4+paralysis,F2,12,245,Surprises on 1-4. Paralysis lasts 2d4turns (SNeg).
+Ghast,L2,1d6(1d6),150'(50'),4(15),4,3,claws/bite,1d4/1d4/1d8,F4,9,190,Bite paralyzes for 2d4turns (SNeg). Sickening stench 10'R (SNeg).
+Ghost,L2,1(1),90'(30'),0(19),10,1,fear,Ageing,F10,10,"3,100",Immune to attacks. A hit ages a victim 1d4x10 years.
+Ghoul,L1,1d6(2d8),90'(30'),6(13),2,3,claws/bite,1d3/1d3/1d3,F2,9,47,Any hit paralyzes for 2d4turns (SNeg). Turns as 3HD.
+"Giant, Hill",L1,1d4(2d4),120'(40'),4(15),8,1,weapon,2d8,F8,8,560,
+"Giant, Stone",L1,1d2(1d6),120'(40'),4(15),9,1,weapon,3d6,F9,9,"1,700",Throw rocks R300' 3d6Dam.
+"Giant, Frost",L1,1d2(1d4),120'(40'),4(15),10+1,1,weapon,4d6,F10,9,"1,700",Throw rocks R200' 3d6Dam. Immune to cold.
+"Giant, Fire",L1,1d2(1d3),120'(40'),4(15),11+2,1,weapon,5d6,F11,9,"2,000",Throw rocks R200' 3d6Dam. Immune to heat.
+"Giant, Cloud",L1,1d2(1d3),120'(40'),4(15),12+3,1,weapon,6d6,F12,10,"2,000",Only suurprised on 1. Throw rocks R200' 3d6Dam.
+"Giant, Storm",L1,1(1d3),150'(50'),2(17),15,1,weapon,8d6,F15,10,"3,300",In thunder storms Lightning bolt 1/5rds Dam=to giant's hp.
+Gloomwing,M2,1(1),F120'(40'),1(18),5+1,3,claws/bite,1d3/1d3/1d8,F5,8,860,Surprises on 1-3. Causes confusion. Pheromones cause weakness.
+Gnoll,L1,1d6(3d6),90'(30'),5(14),2,1,weapon,Weapon+1,F2,8,29,In a group of 20+ there will be a 3HD 16hp leader.
+Gnome,L1,1d8(5d8),60'(20'),5(14),1,1,weapon,Weapon,D1,8,10,Extended infravision 90'.
+Goblin,L1,2d4(6d10),60'(20'),6(13),1-1,1,weapon,Weapon,F0,7,5,Extended infravision 90'. -1 to hit in sunlight.
+"Golem, Amber",L1,1(1),180'(60'),6(13),10,3,claws/bite,2d6/2d6/2d10,F5,12,"3,100","Magic weapons to hit. Immune to hold, charm, sleep, poison, gas."
+"Golem, Bone",L1,1(1),120'(40'),2(17),8,4,weapons,Weapons,F4,12,"2,065","As Amber golem above + immune to electricity, fire, cold."
+"Golem, Bronze",L1,1(1),240'(80'),0(19),20,1,fist,3d10,F10,12,"4,250",As Amber golem + edged weapon hits 2d6Dam to wielder (SNeg).
+"Golem, Clay",L2,1(0),60'(20'),7(12),11,1,fist,3d10,F11,12,"3,000",As Amber golem + immune to edged weapons. Non-healing wounds.
+"Golem, Flesh",L2,1(0),90'(30'),9(10),9,2,fists,2d8/2d8,F9,12,"2,400",As Amber golem + electrical damage regenerates 1hp/dice.
+"Golem, Iron",L2,1(0),60'(20'),3(16),18,1,fist,4d10,F18,12,"5,250",+3 weapons to hit. Gas breath 10'3 (SorD). Fire repairs it.
+"Golem, Stone",L2,1(0),60'(20'),5(14),14,1,fist,3d8,F14,12,"4,200",+2 weapons to hit. May cast Slow 1/2rds R10'. Many immunities.
+"Golem, Wood",L1,1(1),120'(40'),7(12),2+2,1,fist,1d8,F1,12,59,"As Amber golem + clumsy -1 initiative, -2 to fire saves."
+Gorbel,FF,1d20(1d20),180'(60'),3(16),2,1,claws,1d4,F2,12,38,Edged weapon hit bursts it 1d4Dam 5'R. Claws ongoing 1d6Dam.
+Gorgon,L1,1d2(1d4),120'(40'),2(17),8,1,gore,2d6,F8,8,"1,060",Breath turns to stone R60'x10' (SNeg).
+Gorgimera,M2,1(1),150'(50'),2(17),10,5,claws/bites,1d3/1d3/2d4/2d6/3d4,F10,10,"2,400","Lion AC5. Breath 2/day petrify R30'x10', fire R50'x20 3d8Dam."
+Gorilla Bear,FF,1d6+1(1d6+1),90'(30'),4(15),4,2,claws,1d8/1d8,F4,8,190,A claw hit of 18+ adds 2d6Dam hug.
+Gray Ooze,L1,1(1),10'(3'),8(11),3,1,acid slam,2d8,F2,12,80,Damage is against unarmoured victims. Acid disolves armour in 1 turn.
+Gray Worm,L1,1d3(1d3),60'(20'),6(13),6,1,bite,1d8,F3,9,570,Surprised on 1. A hit of 19+ swallows whole 1d8Dam/rd.
+Green Slime,L1,1(0),3'(1'),N/A,2,1,slime,Digestion,F1,12,38,"Digests clothes/armour in 6rds, flesh in 1d4rds. Only fire kills."
+Griffon,L1,0(2d8),F360'(120'),5(14),7,3,claws/bite,1d4/1d4/2d8,F4,8,440,Ground movement 120'(40').
+Grippli,M2,1d10(5d6),90'(30'),9(10),1+1,1,weapon,1d4,F1,7,21,Surprises on 1-4. Movement in trees 150'(50'). Ultravision 100'.
+Groaning Spirit,L2,1(1),150'(50'),0(19),7,1,touch,1d8 cold,F7,10,"1,490",Sighting causes fear (SNeg). Immune to sleep and charm.
+Gryph2HD,FF,1d6(1d6),F210'(70'),6(13),2,1,bite,2d6,F2,8,20,Females use a 0Dam grapple attack to pin victim and inject eggs.
+Gryph3HD,FF,1d6(1d6),F210'(70'),6(13),3,1,bite,2d6,F3,8,50,Females use a 0Dam grapple attack to pin victim and inject eggs.
+Gryph4HD,FF,1d6(1d6),F210'(70'),6(13),4,1,bite,2d6,F4,8,80,Females use a 0Dam grapple attack to pin victim and inject eggs.
+Halfling,L1,3d6(5d8),90'(30'),7(12),1-1,1,weapon,Weapon,H1,7,5,Village (3d10x10) 1d6+1 level leader + 5d4 2HD militia.
+Harpy,L1,1d6(2d4),F150'(50'),7(12),3,3,claws/weapon,1d4/1d4/weapon,F3,7,80,Song charms (SNeg). Harpies get +2 to all saves.
+Haunt,M2,1(1),60'(20'),0(19),5,1,strangle,Special,F5,8,650,"Drains 2DEX/rd possess victim at 0. Strangle 1,2,4,8etc.Dam."
+Hawk,L1,0(1d6),F480'(160'),8(11),½,1,bite,1d2,F0,7,5,May swoop at a surprised opponent doing 2xDam on a hit.
+"Hawk, Giant",L1,0(1d3),F450'(150'),6(13),3+3,1,bite,1d6,F2,8,65,May swoop at a surprised opponent doing 2xDam on a hit.
+Hell Hound3HD,L1,2d4(2d4),120'(40'),4(15),3,1,bite,1d6,F3,9,80,Breathe fire R10' 3d6Dam (S½). Detect invisible R60' 75%.
+Hell Hound4HD,L1,2d4(2d4),120'(40'),4(15),4,1,bite,1d6,F4,9,190,Breathe fire R10' 4d6Dam (S½). Detect invisible R60' 75%.
+Hell Hound5HD,L1,2d4(2d4),120'(40'),4(15),5,1,bite,1d6,F5,9,500,Breathe fire R10' 5d6Dam (S½). Detect invisible R60' 75%.
+Hell Hound6HD,L1,2d4(2d4),120'(40'),4(15),6,1,bite,1d6,F6,9,820,Breathe fire R10' 6d6Dam (S½). Detect invisible R60' 75%.
+Hell Hound7HD,L1,2d4(2d4),120'(40'),4(15),7,1,bite,1d6,F7,9,"1,140",Breathe fire R10' 7d6Dam (S½). Detect invisible R60' 75%.
+Herd Animal1HD,L1,0(3d10),240'(80'),7(12),1,1,butt,1d4,F1,5,10,Smaller species including the caribou.
+Herd Animal2HD,L1,0(3d10),240'(80'),7(12),2,1,butt,1d4,F1,5,20,Small-medium species including cattle.
+Herd Animal3HD,L1,0(3d10),240'(80'),7(12),3,1,butt,1d6,F2,5,50,Medium-larger species including the buffalo.
+Herd Animal4HD,L1,0(3d10),240'(80'),7(12),4,1,butt,1d8,F2,5,80,Largest species including the moose.
+Hippocampus,L2,2d4(2d4),S240'(80'),5(14),4,1,kick,1d4,F4,8,80,
+Hippogriff,L1,0(2d8),F360'(120'),5(14),3+1,3,claws/bite,1d6/1d6/1d10,F2,8,65,Ground movement 180'(60').
+Hoar Fox,FF,1d6(1d6),150'(50'),6(13),2,1,bite,1d6,F2,7,38,"Cold breath R30' 2d6Dam(S½). Immune to cold, fire does x2."
+Hobgoblin,L1,1d6(4d6),90'(30'),6(13),1+1,1,weapon,Weapon,F1,8,15,"King 5HD 22hp, 1d4 bodyguards 4HD 3d6hp, all morale 10."
+Homunculus,L2,1(0),F180'(60'),6(13),2,1,bite,1d3+sleep,Varies,11,38,Bite causes sleep for 5d6turns (SNeg). Ground movement 60'(20').
+"Hornet, Giant",FF,1(1),F240'(80'),2(17),5,1,sting,1d4+poison,F5,10,350,Poison incapacitates for 2d6turns + 5d6Dam (SNeg).
+"Horse, Riding",L1,0(1d10x10),240'(80'),7(12),2,2,hooves,1d4/1d4,F1,7,20,Carries upto 300lbs or upto 600lbs at half movement.
+"Horse, War",L1,0(0),120'(40'),7(12),3,2,hooves,1d6/1d6,F2,9,50,Carries upto 400lbs or upto 800lbs at half movement.
+"Horse, Draft",L1,0(0),90'(30'),7(12),3,0,0,0,F2,6,50,Carries upto 450lbs or upto 900lbs at half movement.
+Hound of Ill Omen,FF,1(1),0'(0'),NA,NA,1,howl,Special,NA,NA,NA,Victim takes 4xDam from next 1d10 hits (SNeg).
+Huecuva,FF,1d10(1d10),90'(30'),3(16),2,1,fist,1d6+disease,F2,12,47,Silver weapons to hit. Polymorph self. Turns as 3HD. Disease (SNeg).
+Hydra5HD,L1,1(1),120'(40'),5(14),5,5,bites,1d10each,F5,9,200,8hp/head. Hydra dies when all heads reach 0hp.
+Hydra6HD,L1,1(1),120'(40'),5(14),6,6,bites,1d10each,F6,9,320,8hp/head. Hydra dies when all heads reach 0hp.
+Hydra7HD,L1,1(1),120'(40'),5(14),7,7,bites,1d10each,F7,9,440,8hp/head. Hydra dies when all heads reach 0hp.
+Hydra8HD,L1,1(1),120'(40'),5(14),8,8,bites,1d10each,F8,9,560,8hp/head. Hydra dies when all heads reach 0hp.
+Hydra9HD,L1,1(1),120'(40'),5(14),9,9,bites,1d10each,F9,9,"1,000",8hp/head. Hydra dies when all heads reach 0hp.
+Hydra10HD,L1,1(1),120'(40'),5(14),10,10,bites,1d10each,F10,9,"1,000",8hp/head. Hydra dies when all heads reach 0hp.
+Hydra11HD,L1,1(1),120'(40'),5(14),11,11,bites,1d10each,F11,9,"1,200",8hp/head. Hydra dies when all heads reach 0hp.
+Hydra12HD,L1,1(1),120'(40'),5(14),12,12,bites,1d10each,F12,9,"1,200",8hp/head. Hydra dies when all heads reach 0hp.
+Hyena,L2,2d6(2d6),120'(40'),7(12),3,1,bite,2d4,F3,9,50,
+"Hyena, Giant",L2,2d4(2d4),120'(40'),7(12),5,1,bite,3d4,F5,9,200,
+Insect Swarm2HD,L1,1(3),F60'(20'),7(12),2,1,bites,2,F0,11,29,Always hits. Immune to weapons. Torch does 1d4Dam.
+Insect Swarm3HD,L1,1(3),F60'(20'),7(12),3,1,bites,2,F0,11,65,Always hits. Immune to weapons. Torch does 1d4Dam.
+Insect Swarm4HD,L1,1(3),F60'(20'),7(12),4,1,bites,2,F0,11,135,Always hits. Immune to weapons. Torch does 1d4Dam.
+Invisible Stalker,L1,1(1),120'(40'),3(16),8,1,fist,4d4,F8,12,"1,060",Surprises on 1-5.
+Iron Cobra,FF,1(1),120'(40'),0(19),1,1,bite,1d3+poison,F1/M12,12,16,Poison (SorD-2). Makes spell saves as M12.
+Jackal,L2,1d6(2d4),150'(50'),7(12),½,1,bite,1d2,F1,7,5,
+Jackalwere,L2,1d4(1d4),120'(40'),4(15),4,1,bite/weapon,2d4/weapon,F4,9,190,+1/iron weapons to hit. Sleep gaze (SNeg).
+Jaculi,FF,1d10+10(1d10+10),90'(30'),6(13),1,1,impale,1d6,F1,8,13,Surprises on 1-4. Only gets 1 attack from its perch.
+Kamadan,FF,1(1),180'(60'),4(15),4+2,3,claws/bite,1d3/1d3/1d6,F4,8,235,+4-7 snake heads 1d4Dam. Sleep breath R30'x10' ≤4HD(NS).
+Kampfult,M2,1(1),30'(10'),4(15),2,6,vines,1each,F2,12,29,Surprises on 1-3. Ongoing 1Dam/rd from each vine that hits.
+Kech,M2,2d4(2d4),150'(50'),4(15),5,3,claws/bite,1d4+1/1d4+1/1d6,F5,8,650,Surprises on 1-5. Camouflage. Move silently 50%.
+Kelpie,FF,1d4(1d4),S120'(40'),3(16),5,0,,0,F5,7,350,Charm 1/day causes a male victim to drown himself.
+Khargra,FF,1d6(1d6),B150'(50'),-3(22),6,1,bite,3d6,F6,10,"1,070",Surprises on 1-5. Must hit with 1 of 3 arms (0Dam) to bite.
+Killmoulis,FF,1d3(1d3),150'(50'),6(13),½,0,,0,F0,5,6,Hiding 90% chance of success.
+Kobold,L1,4d4(6d10),60'(20'),7(12),½,1,weapon,Weapon-1,F0,6,5,Extended infravision R90'.
+Korred,M2,1d4(1d4),90'(30'),5(14),6+1,1,weapon,Weapon+4,F6,10,"1,880",Throw rocks R100' 2d8Dam. Laugh R60'. Spell-like abilities.
+Lamia,L2,1(1),240'(80'),3(16),9,1,weapon,Weapon,F9,9,"4,500",Touch drains 1WIS. Spell-like abilities.
+Lammasu,L2,2d4(2d4),F240'(80'),6(13),7+7,2,claws,1d6/1d6,F7,9,"1,300",Constant protection from evil 10'R. Cleric spells.
+Land Lamprey,M2,2d6(2d6),120'(40'),7(12),1+2,1,bite,1,F1,12,21,Drains blood 1Dam/rd(max 3rds). Death/fire removes.
+Lava Child,FF,3d6(3d6),90'(30'),4(15),4,3,claws/bite,1d6/1d6/2d6,F4,9,190,Immune to fire. Immune to metal and ignore armour.
+"Leech, Giant",L1,0(1d4),S120'(40'),7(12),6,1,blood drain,1d6/round,F3,10,570,Once a leech hits blood drain damage is 1d6/round.
+Leprechaun,L2,1(1d20),150'(50'),8(11),2-5hp,0,,0,M1,6,6,Spell-like abilities.
+Lich,L2,1(1),60'(20'),0(19),12+,1,touch,1d10cold,M18+,9,"4,400+",Magic weapons to hit. Touch paralyzes (SNeg). Spell use.
+"Lizard, Gt.Draco",L1,1d4(1d8),120'(40'),5(14),4+2,1,bite,1d10,F3,7,215,Able to glide at 210'(70').
+"Lizard, Gt.Gecko",L1,1d6(1d10),120'(40'),5(14),3+1,1,bite,1d8,F2,7,100,May climb sheer surfaces.
+"Lizard, Gt.Horned(Chameleon)",L1,1d3(1d6),120'(40'),2(17),5,2,bite/horn,2d4/1d6,F3,7,800,Surprises on 1-5. Sticky tongue R5'. Tails knocks victims down.
+"Lizard, Gt.Tuatara",L1,1d2(1d4),90'(30'),4(15),6,3,claws/bite,1d4/1d4/2d6,F4,6,570,Extended infravision R90'.
+"Lizard, Gt.Fire",M1,1d4(1d4),90'(30'),3(16),10,3,claws/bite,1d6/1d6/2d8,F10,8,"1,700",Fire breath R15'x10' 2d6Dam (S½).
+Lizardfolk,L1,2d4(6d6),S120'(40'),5(14),2+1,1,weapon,Weapon+1,F2,12,47,Ground movement 60'(20').
+Locathah,L2,3d4(2d10x10),S120'(40'),6(13),2,1,weapon,Weapon,F2,9,20,In a group of 30+ 1 4HD leader and 1d4 3HD captains.
+"Locust, Subterranean",L1,2d10(1d10),F180'(60'),4(15),2,1,bite/slam/spit,1d2/1d4/special,F2,5,38,Spit R10' incapacitates for 1turn (SNeg). Noise attracts monsters.
+Lurker Above,L2,1(1d4),F90'(30'),6(13),10,1,crush,1d6,F10,12,"1,700",Surprises on 1-4. Victims suffocate in 1d4+1rds.
+"Lycanthrope, Werebear",L1,1d4(1d4),120'(40'),2(17),6,3,claws/bite,2d4/2d4/2d8,F6,10,"1,070",Silver weapons to hit. +2d8Dam if both claws hit.
+"Lycanthrope, Wereboar",L1,1d4(2d4),150'(50'),4(15),4+1,1,tusks,2d6,F4,9,365,Silver weapons to hit. +2 to hit and morale 12 if enraged.
+"Lycanthrope, Wererat",L1,1d8(2d6),120'(40'),7(12),3,1,bite/weapon,1d4/weapon,F3,8,95,Silver weapons to hit. Surprises on 1-4.
+"Lycanthrope, Wereshark",M2,1(1),S210'(70'),0(19),10,1,bite,5d4,F10,10,"2,400",Silver weapons to hit. Ground movement 120'(40').
+"Lycanthrope, Weretiger",L1,1d4(1d4),150'(50'),3(16),5,3,claws/bite,1d6/1d6/2d6,F5,9,650,Silver weapons to hit. Surprises on 1-4.
+"Lycanthrope, Werewolf",L1,1d6(2d6),180'(60'),5(14),4,1,bite,2d4,F4,8,190,Silver weapons to hit.
+Magnesium Spirit,FF,1(1),360'(120'),0(19),6+1,1,slam,3d4+level drain,F6,9,"1,580",Silver weapons to hit. Blinding flash R20'. Merge with victim in 2rds.
+Mandragora1+1HD,M2,3d6(3d6),120'(40'),5(14),1+1,2,tentacles,1d4/1d4,F1,8,21,On a 20 hits throat ongoing 1d4Dam/rd. Fire resistance 50%.
+Mandragora2+2HD,M2,3d6(3d6),120'(40'),5(14),2+2,2,tentacles,1d4/1d4,F2,8,47,On a 20 hits throat ongoing 1d4Dam/rd. Fire resistance 50%.
+Mantari,FF,1d3(1d3),F180'(60'),9(10),1+1,1,tail,Special,F1,8,21,A hit does 19 minus victim's CON. A 2ndrd hit does 4xDam.
+Manticore,L1,1d2(1d4),F180'(60'),4(15),6+1,3,claws/bite,1d4/1d4/2d4,F6,9,980,May shoot 6 (out of 24) tail spikes R180' 1d6Dam each.
+Marid,M2,1(1),F240'(80'),0(19),13,1,fist,4d8,F13,9,"5,100",Spell-like abilities. Water jet R60' 1d6Dam+blindness (SNeg).
+Mastodon,L1,0(2d8),120'(40'),3(16),15,2,tusks,2d6/2d6,F8,8,"3,300","2xDam if charging. May trample at +4 to hit, 4d8Dam."
+Medusa,L1,1d3(1d4),90'(30'),8(11),4,1,bite,1d6+poison,F4,8,245,Poison (SorD). Gaze petrifies (SNeg).
+Memory Moss,M2,2d6(2d6),0'(0'),9(10),1-2hp,0,,0,F0,NA,7,Steals 24 hours of memories from 1 victim R60' (SNeg).
+"Men, Berserker",L1,1d6(3d10),120'(40'),7(12),1+1,1,weapon,1d6/weapon,F1,NA,21,+2 to hit against all humanoid opponents.
+"Men, Brigand",L1,0(1d4x10),120'(40'),Varies,1,1,weapon,1d6/weapon,F1,8,10,"50% Leather+shield(AC7), 50% Chain+shield(AC4)."
+"Men, Merchant",L1,0(1d20),90'(30'),9(10),1,1,weapon,1d6/weapon,F1,Varies,10,Most ride mounts. Travel with guards(fighters).
+"Men, Nomad",L1,0(1d4x10),120'(40'),Varies,1,1,weapon,1d6/weapon,F1,8,10,Travel on mounts.
+"Men, Pirate",L1,0(1d8ships),120'(40'),Varies,1,1,weapon,1d6/weapon,F1,6,10,Most wear Leather armour(AC8).
+"Mephit, Fire",FF,1(1),F240'(80'),5(14),3+1,2,claws,1d3+1/1d3+1,F3,8,205,Touch causes 1Dam. Fire Breath R15'x1' 1d8+1Dam (S½).
+"Mephit, Lava",FF,1(1),F240'(80'),6(13),3,2,claws,1d8+1/1d8+1,F3,8,125,Touch causes 1d8Dam. Spit lava R10' always hits 1d6Dam.
+"Mephit, Smoke",FF,1(1),F240'(80'),4(15),3,2,claws,1d2/1d2,F3,8,95,Soot ball R20' always hits 1d4Dam+1d2rds blindness. Invisibility.
+"Mephit, Steam",FF,1(1),F240'(80'),7(12),3+3,2,claws,1d4/1d4,F3,8,240,Touch causes 1Dam. Water jet R20' always hits 1d3Dam+1rd stun.
+Merfolk,L1,0(1d20),S120'(40'),6(13),1,1,weapon,1d6/weapon,F1,8,10,"2HD leader in a group of 10+, 4HD in a group of 50+."
+Mimic7HD,L2,1(1),30'(10'),7(12),7,1,smash,3d4,F7,8,790,Any creature touching it sticks to it until the mimic is slain.
+Mimic8HD,L2,1(1),30'(10'),7(12),8,1,smash,3d4,F8,8,"1,060",Any creature touching it sticks to it until the mimic is slain.
+Mimic9HD,L2,1(1),30'(10'),7(12),9,1,smash,3d4,F9,8,"1,700",Any creature touching it sticks to it until the mimic is slain.
+Mimic10HD,L2,1(1),30'(10'),7(12),10,1,smash,3d4,F10,8,"1,700",Any creature touching it sticks to it until the mimic is slain.
+Minotaur,L1,1d6(1d8),120'(40'),6(13),6,2,gore/bite,1d6/1d6,F6,12,820,May also use any weapon with +2 to damage rolls.
+Mite,FF,6d4(6d4),30'(10'),8(11),1-1,1,bite,1d3,F0,6,5,
+MongrelmanHD1,M2,1d00(1d00),90'(30'),5(14),1,1,bite/weapon,1d4/weapon,F1,7,19,"Camouflage, mimickry, pick pockets(70%)."
+MongrelmanHD2,M2,1d00(1d00),90'(30'),5(14),2,1,bite/weapon,1d6/weapon,F2,7,47,"Camouflage, mimickry, pick pockets(70%)."
+MongrelmanHD3,M2,1d00(1d00),90'(30'),5(14),3,1,bite/weapon,1d8/weapon,F3,8,95,"Camouflage, mimickry, pick pockets(70%)."
+MongrelmanHD4,M2,1d00(1d00),90'(30'),5(14),4,1,bite/weapon,1d10/weapon,F4,8,245,"Camouflage, mimickry, pick pockets(70%)."
+Moon Dog,M2,1(2d4),300'(100'),2(17),8+16,1,bite,3d4,F8,10,"4,560","+2 weapons to hit. AC0/shadows, AC-2/dark. Spell-like abilities."
+Morlock,L1,1d12(5d10),120'(40'),8(11),1,1,weapon,Weapon,F1,9,10,-2 to hit in sunlight. Extended infravision R90'.
+Muckdweller,M2,5d4(5d4),S120'(40'),6(13),½,1,bite,1d2,F0,5,6,Water jet R10' blinds (NS if surprised). +2 to hit if successful.
+Mud-Man,M2,2d6(2d6),30'(10'),9(10),2,1,throw mud,0,F2,NA,29,Charm person (SNeg).
+Mule,L1,1d8(2d6),120'(40'),7(12),2,1,kick/bite,1d4/1d3,F0,8,20,Carries upto 200lbs or upto 400lbs at half movement.
+Mummy,L1,1d4(1d12),60'(20'),3(16),5+1,1,fist,1d12,F5,12,860,Paralyze with fear (SNeg). Touch causes mummy rot (NS).
+Mustard Jelly,M2,1(1),90'(30'),4(15),7+14,1,pod,5d4,F7,12,"1,590",+1 weapons to hit. Vapor cloud 10'R slows (Sneg). May split in 2.
+"Naga, Guardian",L2,1d2(0),150'(50'),3(16),11-12,2,bite/constrict,1d6/2d4,F11-12,11,"2,800",Spit poison R30' (SorD). Spellcasting as 6thlvl cleric.
+"Naga, Spirit",L2,1d3(0),120'(40'),4(15),9-10,1,bite,1d3+poison,F9-10,8,"2,400",Poison (SorD). Charm gaze. Spellcasting as 3rdlvl MU/2ndlvl cleric.
+"Naga, Water7HD",L2,1d4(0),S180'(60'),5(14),7,1,bite,1d4+poison,F7,8,"1,140",Poison (SorD). Spellcasting as 5thlvl MU. Ground movement 90'(30').
+"Naga, Water8HD",L2,1d4(0),S180'(60'),5(14),8,1,bite,1d4+poison,F8,8,"1,560",Poison (SorD). Spellcasting as 5thlvl MU. Ground movement 90'(30').
+Neanderthal,L1,1d10(4d10),120'(40'),8(11),2,1,weapon,2d4/weapon,F2,7,20,Leaders have 6HD.
+Necrophidius,FF,1(1),90'(30'),2(17),2,1,bite,1d8+paralysis,F2,12,56,Surprises on 1-3. Death dance. Bite paralyzes 1d4turns (SNeg).
+Night Hag,L2,1(1),90'(30'),9(10),8,1,claw,2d6,F8,8,"1,560",Spell-like abilities. Constitution drain.
+Nightmare,L2,1(0),F360'(120'),-4(23),6+6,3,hooves/bite,1d6+4/1d6+4/2d4,F6,10,980,Smoke breath -2 to hit (SNeg). Ground movement 150'(50').
+Nilbog,FF,4d10(4d10),60'(20'),6(13),1-1,1,weapon,Weapon,F0,10,7,"A reverse goblin. Wounds add hp, healing harms it."
+Nixie,L1,0(2d20),S120'(40'),7(12),1,1,weapon,1d4,E1,6,16,Charm (10 nixies required). Water breathing (lasts 24hours).
+Nymph,L2,0(1d4),120'(40'),9(10),3,0,,0,F3,6,80,Spell-like abilities.
+Ochre Jelly,L1,1(0),30'(10'),8(11),5,1,slime,2d6,F3,12,500,Splits into 1d4+1 2HD versions. Disolves wood/leather in 1rd.
+"Octopus, Giant",L1,0(1d2),S90'(30'),7(12),8,8,tentacles or bite,1d3each/1d6,F4,7,"2,060",Ongoing 1d3Dam. -1 to hit per tentacle hit. Ink cloud 40'R.
+Ogre,L1,1d6(2d6),90'(30'),5(14),4+1,1,club,1d10,F4,10,215,
+Ogre Mage,L2,1d6(1d6),F150'(50'),4(15),5+2,1,weapon,1d12,M5,9,660,Ground movement 90'(30'). Regenerates 1hp/rd. Spell-like abilities.
+Ogrillon,FF,1d4(5d6),120'(40'),6(13),2,2,fists,1d6+1/1d6+1,F2,9,20,Orc/ogre crossbreed.
+Olive Slime,M2,1d4(1d4),0'(0'),9(10),2+2,0,,0,F2,12,47,Touching the slime causes it to attach and slowly spread.
+Orc,L1,2d4(1d6x10),120'(40'),6(13),1,1,weapon,1d6/weapon,F1,8,10,-1 to hit in sunlight. Chief 4HD 15hp +2Dam.
+Otyugh6HD,L2,1(2),60'(20'),3(16),6,3,tentacles/bite,1d8/1d8/1d4+1,F6,10,820,Never surprised. Bite causes disease 1d3Dam/day (SNeg).
+Otyugh7HD,L2,1(2),60'(20'),3(16),7,3,tentacles/bite,1d8/1d8/1d4+1,F7,10,"1,140",Never surprised. Bite causes disease 1d3Dam/day (SNeg).
+Otyugh8HD,L2,1(2),60'(20'),3(16),8,3,tentacles/bite,1d8/1d8/1d4+1,F8,10,"1,560",Never surprised. Bite causes disease 1d3Dam/day (SNeg).
+"Otyugh, Adv9-10HD",L2,1(1),60'(20'),0(19),9-10,3,tentacles/bite,2d6/2d6/2d4,F9-10,9,"2,400",Never surprised. Bite causes disease 1d3Dam/day (SNeg).
+"Otyugh, Adv11-12HD",L2,1(1),60'(20'),0(19),11-12,3,tentacles/bite,2d6/2d6/2d4,F11-12,9,"2,800",Never surprised. Bite causes disease 1d3Dam/day (SNeg).
+Owl Bear,L1,1d4(1d4),120'(40'),5(14),5,3,claws/bite,1d8/1d8/1d8,F3,7,350,+2d8Dam if both claws hit.
+"Owl, Giant",L2,1d4+1(1d4+1),F180'(60'),6(13),4,3,claws/bite,2d4/2d4/1d4+1,F4,8,80,In lair 25% chance of 1d4 eggs and 25% chance of 1d4 chicks.
+"Pedipalp, Large",M2,1d4(1d4),120'(40'),7(12),1+1,1,bite,1d8,F1,7,15,
+"Pedipalp, Huge",M2,1d4(1d4),90'(30'),4(15),2+2,3,pincers/bite,1d6/1d6/1d8,F2,8,47,Pincers grip on a hit ongoing 2d6Dam/rd.
+"Pedipalp, Giant",M2,1d2(1d2),60'(20'),2(17),4+4,3,pincers/bite,1d8/1d8/2d4,F4,9,290,Pincers grip on a hit ongoing 2d8Dam/rd. Gas 20'R -3 to hit (SNeg).
+Pegasus,L1,0(1d10),F480'(160'),6(13),2+2,2,hooves,1d6/1d6,F2,8,47,Ground movement 240'(80').
+Phantom,M2,1(1),90'(30'),NA,NA,0,0,0,NA,NA,0,Cause fear (SNeg-2).
+Phantom Stalker,FF,1d2(1d2),F240'(80'),3(16),6,2,claws,1d4/1d4,F6,12,"1,070",Polymorph. Immune to fire. Explodes at death 6d6 fireball.
+Phase Tiger,L1,1d4(1d4),150'(50'),4(15),6,2,tentacles,2d4/2d4,F6,8,570,+2 to all saves. Opponents attack at -2 to hit.
+Phoenix,M2,1(1d4),F390'(130'),-3(22),20,1or2,bite/claws,2d6/1d8/1d8,F20,10,"8,250",Never surprised. +3 to initiative. +3 weapons to hit. Spell-like abilities.
+Phycomid,M2,1d4(1d4),30'(10'),5(14),4,2,globules,1d4+2/1d4+2,F4,NA,190,Infection kills in 1d4+4turns (SNeg). Some fire immunity.
+Piercer1HD,L2,3d6(3d6),10'(3'),3(16),1,1,drop,1d6,F1,10,10,Detect movement and bodyheat to target prey.
+Piercer2HD,L2,3d6(3d6),10'(3'),3(16),2,1,drop,2d6,F2,10,20,Detect movement and bodyheat to target prey.
+Piercer3HD,L2,3d6(3d6),10'(3'),3(16),3,1,drop,3d6,F3,10,50,Detect movement and bodyheat to target prey.
+Piercer4HD,L2,3d6(3d6),10'(3'),3(16),4,1,drop,4d6,F4,10,80,Detect movement and bodyheat to target prey.
+Pixie,L1,2d4(1d4x10),F180'(60'),3(16),1,1,dagger,1d4,E1,7,16,Always surprises. Improved invisibility. Ground movement 90'(30').
+Potergeist,FF,1d8(1d8),60'(20'),9(10),½,0,,0,F0,12,8,Silver weapons to hit. Invisible. Causes fear (SNeg).
+Pseudo-dragon,L2,1(1),F240'(80'),2(17),2,1,bite/tail,1d3/poison,F2,7,38,Poison (SorComa 1d6days). Tail +4 to hit. Hiding 80% chance.
+Purple Worm,L1,1d2(1d4),60'(20'),6(13),15,2,bite/sting,2d8/1d8+poison,F8,10,"3,300",Poison (SorD). On 4+ over to hit swallows whole 3d6Dam/rd.
+Pyrolisk,M2,1d4(1d4),F180'(60'),6(13),4+3,1,bite,1d4,F4,7,375,Gaze petrifies (SNeg but 1d12+Dam). Immune to fire.
+"Quasi-Elemental, Lightning6HD",M2,1(1),F180'(60'),2(17),6,1,shock,1d6+6,F6,10,"1,570","+1 weapons to hit. 1d4Dam if striking with metal. Water2xDam, Fire½Dam."
+"Quasi-Elemental, Lightning9HD",M2,1(1),F180'(60'),2(17),9,1,shock,1d6+9,F9,10,"4,500","+1 weapons to hit. 1d4Dam if striking with metal. Water2xDam, Fire½Dam."
+"Quasi-Elemental, Lightning12HD",M2,1(1),F180'(60'),2(17),12,1,shock,1d6+12,F12,10,"5,200","+1 weapons to hit. 1d4Dam if striking with metal. Water2xDam, Fire½Dam."
+Quickling,M2,4d4(4d4),960'(320'),-3(22),1½,3,dagger,1d2/1d2/1d2,C19,7,33,Never surprised. Spell-like abilities.
+Quickwood5HD,M2,1(1d2+2),10'(3'),5(14),5,1,bite,3d4,F5,12,500,1d6+12 roots grab victims R90'. May possess 2d4 oak trees.
+Quickwood6HD,M2,1(1d2+2),10'(3'),5(14),6,1,bite,3d4,F6,12,820,1d6+12 roots grab victims R90'. May possess 2d4 oak trees.
+Quickwood7HD,M2,1(1d2+2),10'(3'),5(14),7,1,bite,3d4,F7,12,"1,140",1d6+12 roots grab victims R90'. May possess 2d4 oak trees.
+Quickwood8HD,M2,1(1d2+2),10'(3'),5(14),8,1,bite,3d4,F8,12,"1,560",1d6+12 roots grab victims R90'. May possess 2d4 oak trees.
+Quickwood9HD,M2,1(1d2+2),10'(3'),5(14),9,1,bite,3d4,F9,12,"2,400",1d6+12 roots grab victims R90'. May possess 2d4 oak trees.
+Quickwood10HD,M2,1(1d2+2),10'(3'),5(14),10,1,bite,3d4,F10,12,"2,400",1d6+12 roots grab victims R90'. May possess 2d4 oak trees.
+Rakshasa,L2,1d4(1d4),150'(50'),-4(23),7,3,claws/bite,1d3/1d3/1d4+1,F7,9,"1,840",Magic weapons to hit (½Dam only). Spells and spell-like abilities.
+Rat,L1,5d10(2d10),60'(20'),9(10),1hp,1,bite(group),1d6(group),F0,5,6,"Disease (SNeg) lasts 30days, 25% fatality rate. Swim 30'(10')."
+"Rat, Giant",L1,3d6(3d10),120'(40'),7(12),½,1,bite,1d3,F1,8,6,"Disease (SNeg) lasts 30days, 25% fatality rate. Swim 60'(20')."
+Raven,M2,4d8(4d8),F360'(120'),7(12),1-2hp,1,bite,1,F0,6,7,Never surprised. 10% chance that a hit will take out an eye.
+"Raven, Huge",M2,2d4(2d4),F270'(90'),6(13),1-1,1,bite,1d2,F0,7,7,Never surprised. 10% chance that a hit will take out an eye.
+"Raven, Giant",M2,4d4(4d4),F180'(60'),4(15),3+2,1,bite,1d4+2,F3,8,135,Never surprised. 10% chance that a hit will take out an eye.
+Remorhaz7HD,L2,1(1),120'(40'),0(19),7,1,bite,6d6,F7,10,"1,140","Belly AC4, Head AC2. Heat melts weapons."
+Remorhaz8HD,L2,1(1),120'(40'),0(19),8,1,bite,6d6,F8,10,"1,560","Belly AC4, Head AC2. Heat melts weapons. Swallow whole."
+Remorhaz9HD,L2,1(1),120'(40'),0(19),9,1,bite,6d6,F9,10,"2,400","Belly AC4, Head AC2. Heat melts weapons. Swallow whole."
+Remorhaz10HD,L2,1(1),120'(40'),0(19),10,1,bite,6d6,F10,10,"2,400","Belly AC4, Head AC2. Heat melts weapons. Swallow whole."
+Remorhaz11HD,L2,1(1),120'(40'),0(19),11,1,bite,6d6,F11,10,"2,800","Belly AC4, Head AC2. Heat melts weapons. Swallow whole."
+Remorhaz12HD,L2,1(1),120'(40'),0(19),12,1,bite,6d6,F12,10,"2,800","Belly AC4, Head AC2. Heat melts weapons. Swallow whole."
+Remorhaz13HD,L2,1(1),120'(40'),0(19),13,1,bite,6d6,F13,10,"3,300","Belly AC4, Head AC2. Heat melts weapons. Swallow whole."
+Remorhaz14HD,L2,1(1),120'(40'),0(19),14,1,bite,6d6,F14,10,"3,300","Belly AC4, Head AC2. Heat melts weapons. Swallow whole."
+"Rhagodessa, Giant",L1,1d4(1d6),150'(50'),5(14),4+2,1,leg/bite,0/2d8,F2,9,215,A leg hit traps victim and bite auto hits next round.
+Rhinoceros,L1,0(1d12),120'(40'),5(14),6,1,butt/trample,2d4/2d8,F3,6,570,2xDam if charging.
+"Rhinoceros, Wooly",L1,0(1d8),120'(40'),4(15),8,1,butt/trample,2d6/2d12,F4,6,"1,060",2xDam if charging.
+"Roc, Small",L1,0(1d12),F480'(160'),4(15),6,3,claws/bite,1d4+1/1d4+1/2d6,F3,8,320,50% chance of nest having 1d6 eggs or 1d4 young.
+"Roc, Large",L1,0(1d8),F480'(160'),2(17),12,3,claws/bite,1d8/1d8/2d10,F6,9,"1,200",50% chance of nest having 1d6 eggs or 1d4 young.
+"Roc, Giant",L1,0(1),F480'(160'),0(19),36,3,claws/bite,3d6/3d6/8d6,F9,10,"6,750",50% chance of nest having 1d6 eggs or 1d4 young.
+Rock Reptile(8'long),M2,1d2(1d2),60'(20'),3(16),5+8,1,bite,1d4+8,F5,8,660,Surprises on 1-3. Camouflage. Initial rush (1rd) at 2x speed.
+Roper10HD,L2,1d3(1d3),30'(10'),0(19),10,1,bite,5d4,F10,8,"2,400",6 strands grab R50' (open doors to free) and pull to mouth at 10'/rd.
+Roper11HD,L2,1d3(1d3),30'(10'),0(19),11,1,bite,5d4,F11,8,"2,800",6 strands grab R50' (open doors to free) and pull to mouth at 10'/rd.
+Roper12HD,L2,1d3(1d3),30'(10'),0(19),12,1,bite,5d4,F12,8,"2,800",6 strands grab R50' (open doors to free) and pull to mouth at 10'/rd.
+"Roper, Stone",M2,1(1),10'(3'),0(19),6,1,bite,1d10,F6,8,"1,070",As roper above. May also drug 2 victims to fight for it (NS).
+Rot Grub,L1,0(5d4),10'(2'),9(10),1hp,0,,0,F0,NA,5,Burrow in flesh to heart in 1d3x10mins. Fire/Cure disease removes.
+Rust Monster,L1,1d4(1d4),120'(40'),2(17),5,1,antennae,Rust,F3,7,500,Immune to metal weapons. Drain magic weapons -1/touch.
+Sahuagin,L2,4d4(3d4x10),S240'(80'),5(14),2+2,5,claws/bite,1d2each/1d4,F2,8,47,50% use tridents and nets. Ground movement 120'(40').
+"Salamander, Flame",L1,1d4+1(2d4),120'(40'),2(17),8,3,claws/bite,1d4/1d4/1d8,F8,8,"2,060","Emits heat 20'R 1d8/dam/rd. Immune to sleep, charm, fire."
+"Salamander, Frost",L1,1d3(1d3),120'(40'),3(16),12,5,claws/bite,1d6each/2d6,F12,9,"3,600","Emits cold 20'R 1d8/dam/rd. Immune to sleep, charm, cold."
+Sandling,M2,1(1),120'(40'),3(16),4,1,pod,2d8,F4,12,135,"Immune to sleep, charm, hold, and other mind spells."
+Sandman,FF,1d6(1d6),90'(30'),3(16),4,0,,0,F4,12,190,Sleep 20'R and every touch (SNeg). Immune to normal missiles.
+Satyr,L2,2d4(2d4),180'(60'),5(14),5,1,horns,2d4,F5,7,350,"Surprised on 1. 10% have pipes R60' charm, sleep, fear (SNeg)."
+Scarecrow,FF,1d6(1d6),60'(30'),6(13),5,1,touch,1d6,F5,12,350,Charm gaze (SNeg).
+"Scorpion, Giant",L1,1d6(1d6),150'(50'),2(17),4,3,claws/sting,1d10/1d10/1d4,F2,11,190,Claw hit gives sting +2. Poison sting (SorD).
+Screaming Devilkin,FF,1d4(1d4),F120'(40'),2(17),3,1,tail,1d6,F3,12,65,Scream R60' save every round else actions are limited.
+Sea Hag,L2,1d4(1d4),S150'(50'),7(12),3,1,dagger,1d4,F3,7,95,Death gaze R30' (SorD).
+Sea Serpent,L1,0(2d6),S150'(50'),5(14),6,1,bite,2d6,F3,8,570,May also constrict and crush boats upto 30' in length.
+Shadow,L1,1d8(1d12),90'(30'),7(12),2+2,1,fist,1d4+STR drain,F2,12,83,Surprises on 1-5. Magic weapons to hit. A hit drains 1STR for 8turns.
+Shambling Mound8HD,L2,1d3(1d3),60'(20'),0(19),8,2,fists,2d8/2d8,F8,12,"1,560",2 fist hits smother victim in 2d4rds. Weapons do ½Dam.
+Shambling Mound9HD,L2,1d3(1d3),60'(20'),0(19),9,2,fists,2d8/2d8,F9,12,"2,400",2 fist hits smother victim in 2d4rds. Weapons do ½Dam.
+Shambling Mound10HD,L2,1d3(1d3),60'(20'),0(19),10,2,fists,2d8/2d8,F10,12,"2,400",2 fist hits smother victim in 2d4rds. Weapons do ½Dam.
+Shambling Mound11HD,L2,1d3(1d3),60'(20'),0(19),11,2,fists,2d8/2d8,F11,12,"2,800",2 fist hits smother victim in 2d4rds. Weapons do ½Dam.
+"Shark, Bull",L1,0(3d6),S180'(60'),4(15),2,1,bite,2d4,F1,7,29,Sharks can smell blood in water upto 300' away.
+"Shark, Mako",L1,0(2d6),S180'(60'),4(15),4,1,bite,2d6,F2,7,135,Sharks can smell blood in water upto 300' away.
+"Shark, Great White",L1,0(1d4),S180'(60'),4(15),8,1,bite,2d10,F4,7,"1,060",Sharks can smell blood in water upto 300' away.
+"Shark, Giant10HD",L2,1d3(1d3),S180'(60'),5(14),10,1,bite,4d4,F10,10,"1,700","4+ over to hit swallows whole, victim dies in 6 rounds."
+"Shark, Giant11HD",L2,1d3(1d3),S180'(60'),5(14),11,1,bite,4d4,F11,10,"2,000","4+ over to hit swallows whole, victim dies in 6 rounds."
+"Shark, Giant12HD",L2,1d3(1d3),S180'(60'),5(14),12,1,bite,5d4,F12,10,"2,000","4+ over to hit swallows whole, victim dies in 6 rounds."
+"Shark, Giant13HD",L2,1d3(1d3),S180'(60'),5(14),13,1,bite,5d4,F13,10,"2,400","4+ over to hit swallows whole, victim dies in 6 rounds."
+"Shark, Giant14HD",L2,1d3(1d3),S180'(60'),5(14),14,1,bite,6d4,F14,10,"2,400","4+ over to hit swallows whole, victim dies in 6 rounds."
+"Shark, Giant15HD",L2,1d3(1d3),S180'(60'),5(14),15,1,bite,6d4,F15,10,"2,400","4+ over to hit swallows whole, victim dies in 6 rounds."
+Shedu,M1,2d4(2d4),F240'(80'),4(15),9+9,2,hooves,1d6/1d6,F9,10,"1,700",Telepathy. Psionics. Ground movement 120'(40').
+"Shedu, Greater",M2,1d2(1d2),F300'(100'),2(17),14+14,2,hooves,3d6/3d6,F14,10,"3,300",Telepathy. Psionics. Spell-like abilities. Ground movement 150'(50').
+"Shrew, Giant",L1,1d4(1d8),180'(60'),4(15),1,2,bites,1d6/1d6,F1,10,19,+1 to initiative rolls. Echolocation R60'. Intimidate ≤3HD (SorFlee).
+Shrieker,L1,1d8(0),9'(3'),7(12),3,0,,0,F1,12,65,Screams for 1d3rds if it senses movement R30' or light R60'.
+Skeleton,L1,3d4(3d10),120'(40'),7(12),1,1,weapon,1d6/weapon,F1,12,13,Immune to charm and sleep.
+Skeleton Warrior10thLvl,FF,1(1),60'(20'),2(17),9+2,1,weapon,1 weapon,F10,12,"3,100",Magic weapons to hit. +3 to hit bonus. Panic ≤5HD (SorFlee).
+Skulk,FF,1d8(1d8),120'(40'),7(12),2,1,weapon,Weapon,F2,6,38,Camouflage 90%. Backstab +4 to hit 3xDam.
+Slithering Tracker,L2,1(1),120'(40'),5(14),5,0,,0,F5,10,500,Paralyzes a sleeping victim and digests him in 6turns.
+"Slug, Giant",L2,1(1),60'(20'),8(11),12,1,bite,1d12,F12,10,"2,000",Immune to blunt weapons. Spit acid R60' 5d8Dam (S½).
+"Snake, Amphisbaena",M1,1d3(1d3),120'(40'),3(16),6,2,bites,1d3/1d3+poison,F6,8,570,2 poisonous bites (SorD).
+"Snake, Gt.Python",L1,1d3(1d3),90'(30'),6(13),5,2,bite/constrict,1d4/2d4,F3,8,350,Ongoing constriction damage after bite attack hits.
+"Snake, Gt.Ratler",L1,1d4(1d4),120'(40'),5(14),4,2,bites,1d4/1d4+poison,F2,8,135,2 poisonous bites (SorD in 1d6turns).
+"Snake, Pit Viper",L1,1d8(1d8),90'(30'),6(13),2,1,bite,1d4+poison,F1,7,38,Always gets initiative. Poison (SorD). Sense heat R60'.
+"Snake, Sea",L1,1d8(1d8),S90'(30'),6(13),3,1,bite,1+poison,F2,7,65,Poison (SorD in 1d4+2turns) 50% chance bite goes unoticed.
+"Snake, Spitting Cobra",L1,1d6(1d6),90'(30'),7(12),1,1,bite,1d3+poison,F1,7,13,Poison (SorD in 1d10turns). Spit blinding venom R5' (SNeg).
+Spectre,L1,1d4(1d8),F300'(100'),2(17),6,1,touch,1d8+level drain,F6,11,"1,070",Magic weapons to hit. A hit drains 2 levels/HD.
+"Sphinx, Andro-",L2,1(1),F300'(100'),-2(21),12,2,claws,2d6/2d6,F12,9,"3,600",Spellcasting as 6thlvl cleric. Roar has multiple effects.
+"Sphinx, Crio",L2,1d4(1d4),F240'(80'),0(19),10,3,claws/butt,2d4/2d4/3d6,F10,9,"1,700",Ground movement 120'(40).
+"Sphinx, Gyna",L2,1(1),F240'(80'),-1(20),8,2,claws,2d4/2d4,F8,9,"1,560",Ground movement 150'(50'). Many spell-like abilities.
+"Sphinx, Hieraco-",L2,1d6(1d6),F360'(120'),1(18),9,3,claws/bite,2d4/2d4/1d10,F9,10,"1,700",Ground movement 90'(30'). Many spell-like abilities.
+"Spider, Gt.Black Widow",L1,1d3(1d3),W120'(40'),6(13),3,1,bite,2d6+poison,F2,8,80,Poison (SorD in 1turn). Webs as spell. Ground movement 60'(20').
+"Spider, Gt.Crab",L1,1d4(1d4),120'(40'),7(12),2,1,bite,1d8+poison,F1,7,38,Surprises on 1-4. Poison (SorD+2) in 1d4turns.
+"Spider, Gt.Phase",L2,1d4(1d4),W150'(50'),7(12),5+5,1,bite,1d6+poison,F5,8,660,Poison (SorD). Webs as spell. Immune to attack when out of phase.
+"Spider, Gt.Tarantula",L1,1d3(1d3),120'(40'),5(14),4,1,bite,1d8+poison.,F2,8,135,Poison (SorSpasm for 2d4turns) -4 to hit penalty + infects onlookers.
+Spriggan(small form),M2,3d4(3d4),90'(30'),3(16),4,2,weapons,2d4/2d4,F8,8,"1,820",8thlvl thief abilities. Assume giant-size and other spell-like abilities.
+Spriggan(giant form),M2,3d4(3d4),150'(50'),5(14),8+4,2,weapons,2d4/2d4,F8,8,"1,820",Assume small-size.
+Sprite,L1,3d6(3d6),F180'(60'),5(14),½,0,,0,E1,7,6,5 sprites may pool energy and inflict a curse.
+Squealer,M2,1(1d3+1),120'(40'),6(13),12,3,claws/bite,1d3/1d3/1d6+6,F12,9,"2,800",Surprises on 1-3. Surprise adds +2 to hit and to damage.
+"Squid, Giant",L1,0(1d4),S120'(40'),7(12),6,9,tentacles/bite,1d4each/1d10,F3,7,"1,070",Ongoing constriction damage. Ink cloud 30'R.
+"Statue, Animated Crystal ",L1,1d6(1d6),90'(30'),4(15),3,2,fists,1d6/1d6,F3,11,65,
+"Statue, Animated Iron",L1,1d4(1d4),30'(10'),4(15),4,2,fists,1d8/1d8,F4,11,190,Normal weapons get stuck on a hit (SNeg).
+"Statue, Animated Stone",L1,1d3(1d3),60'(20'),4(15),5,2,fists,2d6/2d6,F5,11,500,Damage from fist attacks is burn damage from molten lava.
+Stench Kow,M2,15d4(15d4),150'(50'),2(17),3+3,1,butt,2d4,F3,7,135,2xDam when charging. Stinking cloud 10'R causes nausea (SNeg).
+Stone Guardian,M2,1d4(1d4),100'(33'),2(17),4+4,2,fists,1d8+1/1d8+1,F4,12,290,"Immune to missiles. Edged weapons ¼Dam. Fire, cold, electric ½Dam."
+Stirge,L1,1d10(3d12),F180'(60'),7(12),1,1,proboscis,1d3,F2,9,16,+2 to hit. Ongoing 1d3Dam/rd blood drain. Ground movement 30'(10').
+Stangleweed2HD,L2,3d4(3d4),0'(0'),6(13),2,1plus,fronds,1+,F2,NA,29,3d4 fronds each with 4d4STR. Dam = FrondSTR-VictimSTR.
+Stangleweed3HD,L2,3d4(3d4),0'(0'),6(13),3,1plus,fronds,1+,F3,NA,65,3d4 fronds each with 4d4STR. Dam = FrondSTR-VictimSTR.
+Stangleweed4HD,L2,3d4(3d4),0'(0'),6(13),4,1plus,fronds,1+,F4,NA,135,3d4 fronds each with 4d4STR. Dam = FrondSTR-VictimSTR.
+Symbiotic Jelly,FF,1(1),10'(3'),8(11),2,0,0,0,F2,12,38,Charm monster. Create illusion.
+Tabaxi,FF,2d4(2d4),150'(50'),6(13),2,3,claws/bite,1d3/1d3/1d3,F2,7,38,May also use weapons. Camouflage. Move silently.
+Taer,M2,1d20+10(1d20+10),180'(60'),4(15),3+6,3,kick/fist/bite,1d4/1d4/1d6,F3,8,135,"50% use spears +1 to hit +3Dam. Odor, nausea 10'R (SNeg)."
+Temebrous Worm,M2,1(1),10'(3'),1(18),10,1,bite,2d10,F10,9,"2,400","Acid, bite does 2xDam (S-3Neg). Bristles 1d4Dam+paralysis (SNeg)."
+Tentamort,FF,1d10(1d10),10'(3'),3(16),8,2,tentacles,1d6/1d6,F4,12,245,"Tentacles2HD, Body4HD. 1tentacle constricts, the other paralyzes (SNeg)."
+Thessalhydra,M2,1(1),120'(40'),0(19),12,10,bites/tail,1d6x8/1d20/1d12,F12,10,"3,600",All bites do 2xDam from acid (SNeg). Spit acid R30' 12d6Dam.
+Throat Leech,FF,1d6(1d6),10'(3'),9(10),1hp,1,bite,1d3,F0,12,7,Ongoing blood drain 1d3Dam. 50% chance of choking 1d4Dam.
+Throghrin,L1,1d6(1d10),120'(40'),6(13),3,2or1,claws/weapon,1d3/1d3/weapon,F3,10,80,Claws paralyze 2d4turns (SNeg). Regenerates 1hp/rd.
+Thunder Beast4+4HD,M2,5d4(5d4),90'(30'),4(15),4+4,1,bite,2d6,F4,9,290,Trample from 20'+ at 2x speed 4d4Dam. Fog cloud.
+Thunder Beast5+5HD,M2,5d4(5d4),90'(30'),4(15),5+5,1,bite,2d6,F5,9,660,Trample from 20'+ at 2x speed 5d4Dam. Fog cloud.
+Thunder Beast6+6HD,M2,5d4(5d4),90'(30'),4(15),6+6,1,bite,2d6,F6,9,980,Trample from 20'+ at 2x speed 6d4Dam. Fog cloud.
+Thunder Beast7+7HD,M2,5d4(5d4),90'(30'),4(15),7+7,1,bite,2d6,F7,9,"1,300",Trample from 20'+ at 2x speed 7d4Dam. Fog cloud.
+Thunder Beast8+8HD,M2,5d4(5d4),90'(30'),4(15),8+8,1,bite,2d6,F8,9,"1,820",Trample from 20'+ at 2x speed 8d4Dam. Fog cloud.
+Thunder Beast9+9HD,M2,5d4(5d4),90'(30'),4(15),9+9,1,bite,2d6,F9,9,"2,400",Trample from 20'+ at 2x speed 9d4Dam. Fog cloud.
+"Tick, Giant2HD",L2,3d4(3d4),30'(10'),3(16),2,1,bite,1d4,F2,8,29,Ongoing blood drain 1d6Dam/rd.
+"Tick, Giant3HD",L2,3d4(3d4),30'(10'),3(16),3,1,bite,1d4,F3,8,65,Ongoing blood drain 1d6Dam/rd.
+"Tick, Giant4HD",L2,3d4(3d4),30'(10'),3(16),4,1,bite,1d4,F4,8,135,Ongoing blood drain 1d6Dam/rd.
+Titan17HD,L2,1d2(1d2),210'(70'),2(17),17,1,fist,7d6,F17,10,"4,250","Spell-like abilities: invisibility, levitate, ethereal. Spellcasting."
+Titan18HD,L2,1d2(1d2),210'(70'),1(18),18,1,fist,7d6,F18,10,"4,250","Spell-like abilities: invisibility, levitate, ethereal. Spellcasting."
+Titan19HD,L2,1d2(1d2),210'(70'),0(19),19,1,fist,7d6,F19,10,"4,250","Spell-like abilities: invisibility, levitate, ethereal. Spellcasting."
+Titan20HD,L2,1d2(1d2),210'(70'),-1(20),20,1,fist,7d6,F20,10,"4,250","Spell-like abilities: invisibility, levitate, ethereal. Spellcasting."
+Titan21HD,L2,1d2(1d2),150'(50'),-2(21),21,1,fist,8d6,F21,10,"7,000","Spell-like abilities: invisibility, levitate, ethereal. Spellcasting."
+Titan22HD,L2,1d2(1d2),150'(50'),-3(22),22,1,fist,8d6,F22,10,"7,000","Spell-like abilities: invisibility, levitate, ethereal. Spellcasting."
+Titanothere,L1,0(1d6),120'(40'),5(14),12,1,butt/trample,2d6/2d8,F6,7,"2,000",2xDam if charging.
+"Toad, Giant",L1,1d4(1d4),90'(30'),7(12),2+2,1,bite,1d4+1,F1,6,71,Surprises on 1-3. Tongue R15' grabs ≤   dwarf-sized victims for bite.
+"Toad, Giant Ice",L2,1d4(1d4),90'(30'),4(15),5,1,bite,3d4,F5,7,500,Tongue R20' grabs ≤   human-sized victims for bite. Icy blast 10'R 3d6Dam.
+"Toad, Giant Poisonous",L2,1d4(1d4),90'(30'),7(12),2+2,1,bite,1d4+1+poison,F1,6,83,As regular giant toad + poison bite (SorD).
+Transposer,M2,1(1),150'(50'),7(12),6,2,suckers,1d6/1d6,F6,8,820,After a hit any damage the victim deals adds to the transposer's hp.
+Trapper,L2,1(1),30'(10'),3(16),12,4,crushes,1d6each,F12,10,"2,000",95% undetectable. Ongoing crushing Dam. Immune to heat/cold.
+Treant,L1,0(1d8),60'(20'),2(17),8,2,branches,2d6/2d6,F8,6,"1,560",Surprises on 1-3. Animate 1 or 2 trees R60'.
+Tri-Flower Frond,M2,1d10(1d10),0'(0'),9(10),2+8,3,flowers,Special,F2,12,71,Each flower has a different incapacitating attack/effect.
+Triton,L2,3d4(2d6x10),S150'(50'),5(14),3,1,weapon,Weapon,F3,7,50,90% will be riding underwater mounts.
+Troglodyte,L1,1d8(5d8),120'(40'),5(14),2,3,claws/bite,1d4/1d4/1d4,F2,9,38,Surprises on 1-4. Smell gives -2 to hit penalty (SNeg).
+Troll,L1,1d8(1d8),120'(40'),4(15),6+3,3,claws/bite,1d6/1d6/1d10,F6,10,980,After 3rds regenerates 3hp/rd. Only killed by fire or acid.
+"Troll, Giant 2-Headed",FF,1d3(1d3),120'(40'),4(15),10,4,claws/bites,1d6/1d6/1d10/1d10,F10,10,"2,400",Surprised on 1. After 3rds regenerates 3hp/rd.
+"Troll, Ice",FF,1d6(1d6),90'(30'),8(11),2,2,claws,1d8/1d8,F2,9,47,Magic weapons to hit. Regenerates 2hp/rd. Fire does 2xDam.
+Tunnel Worm,M2,1d6(1d6),60'(20'),4(15),9+3,1,bite,2d8,F9,7,"1,700",first attack is at +2 to hit.
+"Turtle, Giant Sea",L2,1d3(1d3),S150'(50'),2(17),15,1,bite,4d4,F15,6,"1,500",Head and flippers AC5. May capsize boats.
+"Turtle, Giant Snapping",L2,1d4(1d4),S120'(40'),0(19),10,1,bite,6d4,F10,9,"1,700","Surprises on 1-4. 10' long neck. head, neck and flippers AC5."
+Unicorn,L1,1d6(1d8),240'(80'),2(17),4,3,hooves/horn,1d8/1d8/1d8,F8,7,135,Teleport ability 1/day.
+Vampire7HD,L1,1d4(1d6),F180'(60'),2(17),7,1,fist,1d10+energy drain,F7,11,"3,150",Touch drains 2 levels. Regenerates 3hp/rd. Gaseous form.
+Vampire8HD,L1,1d4(1d6),F180'(60'),2(17),8,1,fist,1d10+energy drain,F8,11,"5,060",Touch drains 2 levels. Regenerates 3hp/rd. Gaseous form.
+Vampire9HD,L1,1d4(1d6),F180'(60'),2(17),9,1,fist,1d10+energy drain,F9,11,"7,300",Touch drains 2 levels. Regenerates 3hp/rd. Gaseous form.
+Vapor Rat,M2,2d8(2d8),120'(40'),6(13),2,1,bite,1d2,F2,6,38,May assume gaseous form. Stinking cloud 8'R as it dies.
+Vegypygmy1HD,M2,30d10(30d10),120'(40'),4(15),1,1,fist/weapon,1d6/weapon,F1,7,19,Piercing weapons 1Dam only. Camouflage. Immune to charm.
+Vegypygmy2HD,M2,30d10(30d10),120'(40'),4(15),2,1,fist/weapon,1d6/weapon,F2,7,47,Piercing weapons 1Dam only. Camouflage. Immune to charm.
+Vegypygmy3HD,M2,30d10(30d10),120'(40'),4(15),3,1,fist/weapon,1d6/weapon,F3,7,95,Piercing weapons 1Dam only. Camouflage. Immune to charm.
+Vegypygmy4HD,M2,30d10(30d10),120'(40'),4(15),4,1,fist/weapon,1d6/weapon,F4,7,245,Piercing weapons 1Dam only. Camouflage. Immune to charm.
+Vegypygmy5HD,M2,30d10(30d10),120'(40'),4(15),5,1,fist/weapon,1d6/weapon,F5,7,650,Piercing weapons 1Dam only. Camouflage. Immune to charm.
+Vegypygmy6HD,M2,30d10(30d10),120'(40'),4(15),6,1,fist/weapon,1d6/weapon,F6,7,"1,070",Piercing weapons 1Dam only. Camouflage. Immune to charm.
+Vegypygmy Dog(Thorny),M2,2d6(3d6),150'(50'),3(16),4,1,bite,1d4+1,F4,8,135,In close combat they deal +3d4 ripping damage on a hit.
+Vilstrak,M2,2d10(2d10),90'(30'),2(17),1d6,2,fists,1d4+1/1d4+1,F0,8,6,"May merge with stone, 75% undetectable."
+Volt,FF,2d12(2d12),F60'(20'),3(16),2+1,1plus1,1+1 bite/jolt,1d4/2d6,F2,8,47,A bite hit leads to ongoing jolts 2d6Dam/rd.
+Vulching,M2,2d8(2d8),60'(20'),7(12),1,1or2,1/2 bite/claws,1d4+1/1d4/1d4,F1,7,10,"1st attack with talons only, subsequent attacks are bite only."
+Vulture,M2,4d6(4d6),270'(90'),6(13),1+1,1,bite,1d2,F1,6,15,Ground movement 30'(10').
+"Vulture, Giant",M2,2d6(2d6),240'(80'),7(12),2+1,1,bite,1d4,F2,7,35,Ground movement 30'(10').
+"Wasp, Giant",L2,1d20(1d20+20),F210'(70'),4(15),4,2,bite/sting,2d4/1d4+poison,F4,10,135,Poison sting paralyzes permanently (SNeg).
+"Weasel, Giant",L1,1d4(1d6),150'(50'),7(12),4+4,1,bite,2d4,F3,8,290,Ongoing blood drain 2d4Dam/rd.
+"Whale, Killer",L1,0(1d6),S240'(80'),6(13),6,1,bite,1d20,F3,10,570,On a 20 creatures ≤   halfling-size are swallowed whole 1d6Dam/rd.
+"Whale, Narwhal",L1,0(1d4),S180'(60'),7(12),12,2,bite/horn,2d6/1d8,F12,8,"1,200","Horn value 1d6x1,000gp."
+"Whale, Sperm",L1,0(1d3),S180'(60'),6(13),36,1,bite,3d20,F15,7,"12,500",Swallows prey whole on a to hit roll 4+ more than required.
+Wight,L1,1d6(1d8),90'(30'),5(14),3,1,touch,Energy drain,F3,12,110,Touch drains 1 level. Immune to sleep and charm.
+Will-O-Wisp,L2,1(1d3),F180'(60'),-8(27),9,1,shock,2d8,F9,7,"3,100",Invisibility. Immune to most spells.
+Wind Walker,L2,1d3(1d3),F300'(100'),7(12),6+3,1,slam,3d6,F6,9,680,Only harmed by ethereal attacks Ground movement 150'(50').
+Witherstench,FF,3d4(3d4),60'(20'),7(12),2+2,2,claws,1d6/1d6,F2,7,47,Odour 30'R causes crippling nausea (SNeg).
+Witherweed3HD,FF,1(1),0'(0'),8(11),3,Varies,Varies,Special,F3,12,80,"13-24 fronds, hits drain 1d4DEX (S½). Incapacitates at 3DEX, kills at 0."
+Witherweed4HD,FF,1(1),0'(0'),8(11),4,Varies,Varies,Special,F4,12,190,"13-24 fronds, hits drain 1d4DEX (S½). Incapacitates at 3DEX, kills at 0."
+Witherweed5HD,FF,1(1),0'(0'),8(11),5,Varies,Varies,Special,F5,12,500,"13-24 fronds, hits drain 1d4DEX (S½). Incapacitates at 3DEX, kills at 0."
+Witherweed6HD,FF,1(1),0'(0'),8(11),6,Varies,Varies,Special,F6,12,820,"13-24 fronds, hits drain 1d4DEX (S½). Incapacitates at 3DEX, kills at 0."
+Wolf,L1,2d6(3d6),180'(60'),7(12),2+2,1,bite,1d6,F1,8,35,Morale 6 if ≤3 encountered or 50%+ of total are slain.
+"Wolf, Dire",L1,1d4(2d4),150'(50'),6(13),4+1,1,bite,2d4,F2,8,140,
+"Wolf, Winter",L2,2d4(2d4),180'(60'),5(14),6,1,bite,2d4,F6,10,820,Frost breath R10' 6d4Dam (S½). Immune to cold.
+Wolf-in-Sheep's-Clothing,M2,1(1),10'(3'),3(16),9,1to3,tentacles,1d4each,F9,12,"1,700",Tentacles drag victims to mouth for 1d6+6Dam bite.
+Wolverine,L2,1(1d3),120'(40'),5(14),3,3,claws/bite,1d4/1d4/1d4+1,F3,10,80,+4 to hit. Musk R40'x15' blinds for 1d8hours (SNeg).
+"Wolverine, Giant",L2,1(1d3),150'(50'),4(15),4+4,3,claws/bite,1d4+1/1d4+1/2d4,F4,11,290,+4 to hit. Musk R60'x20' blinds for 1d8hours (SNeg).
+Wraith,L1,1d4(1d6),F240'(80'),3(16),4,1,touch,1d6+energy drain,F4,12,300,Touch drains 1 level. Victim dies at 0 and becomes a wraith.
+Wyvern,L1,1d2(1d6),F240'(80'),3(16),7,2,bite/sting,2d8/2d8+poison,F4,9,"1,140",Poison sting (SorD). Ground movement 90'(30').
+Xorn,L2,1d4(1d4),90'(30'),-2(21),7+7,4,claws/bite,1d3/1d3/1d3/6d4,F7,10,"1,700",Surprises on 1-3. Immune to heat/cold and 50% electricity.
+Yellow Mold,L1,1d4(1d8),0'(0'),NA,2,1,spores,1d6+poison,F2,NA,38,Spores 10'cubed (SorD in 6rds). Only harmed by fire.
+Yellow Musk Creeper,FF,1(1),0'(0'),7(12),3,2to12,dust puffs,Trance,F3,12,65,Victims hit by dust walk into plant -1d4INT/rd (SNeg).
+Yellow Musk Zombie,FF,1d2(1d2),120'(60'),8(11),2,1,weapon,Weapon,F2,12,29,Victims of a yellow musk creeper that have been drained to 1or2INT.
+Yeti,L2,1d6(2d4),150'(50'),6(13),4+4,2,claws,1d6/1d6,F4,8,365,A to hit roll of 20 does +2d8Dam. Gaze paralyzes 3rds (SNeg).
+"Yuan Ti, Pureblood",M2,1d4(1d4),120'(40'),4(15),6,1,weapon,Weapon,F6,8,570,1 minor reptilian feature. Spellcasting.
+"Yuan Ti, Halfbreed7HD",M2,1d4(1d4),120'(40'),4(15),7,2,bite/weapon,1d10/weapon,F7,9,440,Snake head AC0. No spellcasting.
+"Yuan Ti, Halfbreed7HD",M2,1d4(1d4),120'(40'),4(15),7,1,weapon,Weapon,F7,9,790,1 reptilian feature. Human head allows spellcasting.
+"Yuan Ti, Halfbreed8HD",M2,1d4(1d4),120'(40'),4(15),8,2,bite/weapon,1d10/weapon,F8,9,560,Snake head AC0. No spellcasting.
+"Yuan Ti, Halfbreed8HD",M2,1d4(1d4),120'(40'),4(15),8,1,weapon,Weapon,F8,9,"1,060",1 reptilian feature. Human head allows spellcasting.
+"Yuan Ti, Abomination",M2,1d4(1d4),90'(30'),0(19),9,2,bite/constrict,1d10/1d4,F9,10,"1,000",Mostly snake features including head AC0. No spellcasting.
+"Yuan Ti, Abomination",M2,1d4(1d4),90'(30'),0(19),9,1,constrict,1d4,F9,10,"1,700",Mostly snake features but a human head allows spellcasting.
+Zombie,L1,2d4(4d6),60'(20'),8(11),2,1,weapon,1d8/weapon,F1,12,29,Always attacks last. Immune to charm and sleep.
+"Zombie, Juju",M2,1d4(1d4),90'(30'),6(13),3+12,1,fist,3d4,F3,12,205,+1 weapons to hit. Attack as 6HD. Piercing and blunt weapons 1Dam only.
